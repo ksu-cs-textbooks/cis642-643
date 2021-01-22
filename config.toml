@@ -1,4 +1,4 @@
-baseURL = "https://cs.ksu.edu/~nhbean/cis642-643"
+baseURL = "https:/textbooks.cs.ksu.edu/cis642-643"
 languageCode = "en-us"
 title = "K-State CIS 642/643 Textbook"
 
@@ -12,8 +12,8 @@ page = [ "HTML", "Iframeable", "Teleprompter"]
 section = [ "HTML", "Iframeable", "Teleprompter"]
 
 [params]
-  textbookURL = "https://cs.ksu.edu/~nhbean/cis642-643"
-  editURL = "https://gitlab.cs.ksu.edu/russfeld/ksucs-hugo/tree/master/content/"
+  textbookURL = "https://textbooks.cs.ksu.edu/cis642-643"
+  editURL = "https://gitlab.cs.ksu.edu/nhbean/ksucs-hugo/tree/master/cis642-643-textbook/"
   description = "K-State CIS 642/643 Textbook"
   author = "Nathan Bean"
   showVisitedLinks = false
