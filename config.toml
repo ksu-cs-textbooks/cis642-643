@@ -1,4 +1,4 @@
-baseURL = "https:/textbooks.cs.ksu.edu/cis642-643"
+baseURL = "https://textbooks.cs.ksu.edu/cis642-643"
 languageCode = "en-us"
 title = "K-State CIS 642/643 Textbook"
 
