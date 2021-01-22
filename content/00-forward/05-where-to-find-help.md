@@ -11,10 +11,12 @@ This textbook was authored for the **CIS 642/643 - Software Engineering Project 
 
 As you work on the materials in this course, you may run into questions or problems and need assistance. This section reviews the various types of help available to you in this course.
 
+## Microsoft Teams
 First and foremost, anytime you have a questions or need assistance in the course, please post in the course group on Microsoft Teams. It is the best place to go to get help with anything related to this course. Before you post on Teams, take a minute to look around and make sure the question has not already been posted before. It will save everyone quite a bit of time.
 
 The major reason we've chosen to use Teams for this course is that many companies have adopted it or a similar system to help drive their own development efforts.  Thus, in asking you to adopt it for your team communications, it prepares you for using it effectively in the future.  Additionally, it provides the instructors a chance to see where you are in your projects.  And since the development teams will all be using the platform already, it makes sense to have a group for the overall class as well.
 
+## Other Resources
 Beyond MS Teams, there are a few resources you should be aware of. First, if you have any issues working with K-State Canvas, K-State IT resources, or any other technology related to the delivery of the course, your first source of help is the K-State IT Helpdesk. They can easily be reached via email at helpdesk@ksu.edu. Beyond them, there are many online resources for using Canvas, all of which are linked in the resources section below the video. As a last resort, you may also want to post in MS Teams, but in most cases we may simply redirect you to the K-State helpdesk for assistance.
 
 If you run into issues with either the 'soft' skills or the technical content you are asked to tackle in the course, please reach out to the instructors or TA. Each of us has a significant amount of practical industry experience and will happily mentor you, much as you will be mentored by more experienced developers when you start your first job.  Please **do not** keep quiet about your struggles - what we are asking you to do in this course is very different than your prior courses, as there is little instructional support for what you must do.  

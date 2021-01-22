@@ -87,6 +87,32 @@ This schedule represents the "idealized" schedule for the semester.  For specifi
     </td>
 </tr>
 <tr>
+    <td>7</td>
+    <td>
+        <ul>
+            <li>Continued Development</li>
+            <li>Daily Stand-ups with Team</li>
+            <li>Weekly Check-in with Instructor</li>
+            <li>Sprint 9 Review Meeting</li>
+            <li>Sprint 9 Release Tag Due</li>
+            <li>Sprint 9 Peer Reviews Due</li>
+            <li>Sprint 10 Planning Meeting</li>
+        </ul>
+    </td>
+  </tr>
+<tr>
+<tr>
+    <td>8</td>
+    <td rowspan=2>10</td>
+    <td>
+        <ul>
+            <li>Continued Development</li>
+            <li>Daily Stand-ups with Team</li>
+            <li>Weekly Check-in with Instructor</li>
+        </ul>
+    </td>
+</tr>
+<tr>
     <td>9</td>
     <td>
         <ul>
@@ -99,5 +125,87 @@ This schedule represents the "idealized" schedule for the semester.  For specifi
             <li>Sprint 11 Planning Meeting</li>
         </ul>
     </td>
+  </tr>
+<tr>
+    <td>10</td>
+    <td rowspan=2>11</td>
+    <td>
+        <ul>
+            <li>Continued Development</li>
+            <li>Daily Stand-ups with Team</li>
+            <li>Weekly Check-in with Instructor</li>
+        </ul>
+    </td>
 </tr>
+<tr>
+    <td>11</td>
+    <td>
+        <ul>
+            <li>Continued Development</li>
+            <li>Daily Stand-ups with Team</li>
+            <li>Weekly Check-in with Instructor</li>
+            <li>Sprint 11 Review Meeting</li>
+            <li>Sprint 11 Release Tag Due</li>
+            <li>Sprint 11 Peer Reviews Due</li>
+            <li>Sprint 12 Planning Meeting</li>
+        </ul>
+    </td>
+  </tr>
+<tr>
+    <td>12</td>
+    <td rowspan=2>12</td>
+    <td>
+        <ul>
+            <li>Continued Development</li>
+            <li>Daily Stand-ups with Team</li>
+            <li>Weekly Check-in with Instructor</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td>13</td>
+    <td>
+        <ul>
+            <li>Continued Development</li>
+            <li>Daily Stand-ups with Team</li>
+            <li>Weekly Check-in with Instructor</li>
+            <li>Sprint 12 Review Meeting</li>
+            <li>Sprint 12 Release Tag Due</li>
+            <li>Sprint 12 Peer Reviews Due</li>
+            <li>Sprint 13 Planning Meeting</li>
+        </ul>
+    </td>
+  </tr>
+<tr>
+    <td>14</td>
+    <td rowspan=2>13</td>
+    <td>
+        <ul>
+            <li>Continued Development</li>
+            <li>Daily Stand-ups with Team</li>
+            <li>Weekly Check-in with Instructor</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td>15</td>
+    <td>
+        <ul>
+            <li>Continued Development</li>
+            <li>Daily Stand-ups with Team</li>
+            <li>Weekly Check-in with Instructor</li>
+            <li>Sprint 13 Review Meeting</li>
+            <li>Sprint 13 Release Tag Due</li>
+            <li>Sprint 13 Peer Reviews Due</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>
+        <ul>
+            <li>Final Presentations</li>
+        </ul>
+    </td>
+  </tr>
 </table>
