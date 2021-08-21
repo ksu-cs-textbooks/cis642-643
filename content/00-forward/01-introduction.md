@@ -11,10 +11,8 @@ This textbook was authored for the **CIS 642 - Software Engineering Project I/CI
 
 ## Course Resources 
 
-* [CIS 642 Syllabus]({{<ref "00-forward/06-642-syllabus.md">}})
-* [CIS 642 Schedule]({{<ref "00-forward/07-642-schedule.md">}})
+* [CIS 642 Syllabus]({{<ref "00-forward/07-642-syllabus.md">}})
 * [CIS 643 Syllabus]({{<ref "00-forward/08-643-syllabus.md">}})
-* [CIS 643 Schedule]({{<ref "00-forward/09-643-schedule.md">}})
 * [Textbook]({{<param textbookURL>}})
 
 ## Welcome Message
