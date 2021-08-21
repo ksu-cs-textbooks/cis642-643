@@ -22,7 +22,7 @@ And the functional requirements would drill into each of those requirements, des
 
 * Users can add items to the gift basket by clicking a 'Add to Gift Basket' button on the item.  This button should display a wrapped gift icon.
 * Users can view thier gift basket by clicking a similar icon in the right side of the menu
-* This icon should also have a number in a pill next to it, indicating the number of items in the basket. This should update dynamically as items are added and removed frp, tje basket.
+* This icon should also have a number in a pill next to it, indicating the number of items in the basket. This should update dynamically as items are added and removed from the basket.
 * While viewing the gift basket, the user can remove items by clicking a button next to the item
 * Friends and family can search for a gift basket by phone number or email address.
 * In the interests of privacy, the user's personal information _should not be displayed_ to the searching user

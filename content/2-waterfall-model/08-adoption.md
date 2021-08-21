@@ -3,7 +3,6 @@ title: "Widespread Adoption"
 pre: "2. "
 weight: 520
 date: 2018-08-24T10:53:26-05:00
-hidden: true
 ---
 
 Many would consider the waterfall model a fairly intuitive model - after all, you can't create a design until you know what the design must accomplish. It was widely adopted by industry and quickly became the de-facto approach of software engineering. Several factors helped this adoption along.

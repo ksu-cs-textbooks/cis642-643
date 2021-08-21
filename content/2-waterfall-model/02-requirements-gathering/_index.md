@@ -8,6 +8,6 @@ pre = "<b>2. </b>"
 
 ### Chapter 2 Section 1
 
-# Requirements Gathering
+# The Requirements Gathering Phase
 
 But what does it _do_?

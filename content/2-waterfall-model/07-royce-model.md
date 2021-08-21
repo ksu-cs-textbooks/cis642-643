@@ -1,9 +1,8 @@
 ---
 title: "The Royce Contributions"
-pre: "2. "
-weight: 50
+pre: "7. "
+weight: 70
 date: 2018-08-24T10:53:26-05:00
-hidden: true
 ---
 
 The first formal description of this model comes from a 1970 paper "Managing the Development of Large Software Systems"[^Royce 1970] written by Winston W. Royce, based on his own experiences working on large software projects to support the early phases of space exploration. 

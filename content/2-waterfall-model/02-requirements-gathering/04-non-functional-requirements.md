@@ -18,7 +18,6 @@ Other software this software could work with or integrate into. This may include
 ### Performance
 The necessary performance of the software, i.e. how quickly the software will need to process data or how many users it will have.  A good example of a performance requirement comes from the Healthcare.gov launch - the developers expected 50,000 to 60,000 thousand simultaneous users, but at launch over 250,000 attempted to sign up - nearly five times the anticipated load.
 
-
 ### Usability
 Usability - making sure the software is usable by a diverse audience - is unfortantely often an overlooked aspect of software development.  Consider the common use of red and green to indicate good and bad status. About 8.5% of all people are red-green colorblind, and cannot distinguish between these two colors! Using secondary indicators (i.e. icons with colored messsages) and using different hues of red and green (so there is a percieved shade difference) are simple steps that can be taken to make sure the software communicates effectively to this audience.
 
