@@ -1,6 +1,6 @@
 ---
 title: "Conflicting Viewpoints"
-pre: "8. "
+pre: "2.8. "
 weight: 80
 date: 2018-08-24T10:53:26-05:00
 ---

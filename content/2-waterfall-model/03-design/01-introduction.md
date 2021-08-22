@@ -3,41 +3,15 @@ title: "Introduction"
 pre: "1. "
 weight: 10
 date: 2018-08-24T10:53:26-05:00
+draft: true
 ---
 
-The first step in any kind of software development project _should_ be to determine what the software needs to do.  In order to determine that, we need to fully undertand the problem. This is the core of what _requirements gathering_ is about.
+The second step in any kind of software development project _should_ be to develop a plan of how the sofware should be built - _before_ any code is written.  This is what _design_ is all about.  This is also the antithesis to _cowboy coding_ discussed in the prior chapter, which lies at the heart of many software project failures.
 
-Think back to the story problems from your early days of math:
+This section will examine in detail how such plans are developed and documented.
 
-<blockquote>
-If a train leaves station A heading west at 66 miles per hour, and a second train leaves station B at 44 miles per hour, when will they meet?
-</blockquote>
+### Key Terms 
 
-How would you solve this problem?  
-
-You really can't - not without gathering more information.  How far apart are the stations?  Did the trains leave the station at the same time?  What direction is the second train heading?  Are they even on the same track?
-
-The need to thoroughly understand the problem holds true for software development as well.  If you begin building a project _before_ you understand what it needs to do, you are setting yourself up for failure.  Think back to your early days as a computer science student - did you ever start programming a project without reading the full assignment description?  And did you ever find when you did read the last parts of that assignment, the program you had been writing was incompatable with those requirements?
-
-### Key Terms
-
-Some key terms to learn in this chapter are:
-
-* Requirements gathering
-* Stakeholders
-* Formal requirements
-* Business requirements
-* Functional requirements
-* Non-Functional requirements
-    * Hardware
-    * Software
-    * Performance
-    * Usability
-    * Cultural Sensitivity
-    * Availability
-    * Reliability
-    * Maintainability
-    * Extensibility
-    * Security
-* Feature
-
+Some key terms in this chapter are:
+* Design Document
+* UML

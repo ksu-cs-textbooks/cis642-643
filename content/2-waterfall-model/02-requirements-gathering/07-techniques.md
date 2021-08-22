@@ -1,6 +1,6 @@
 ---
 title: "Requirement Gathering Techniques"
-pre: "7. "
+pre: "2.7. "
 weight: 70
 date: 2018-08-24T10:53:26-05:00
 ---

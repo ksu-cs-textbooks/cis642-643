@@ -1,12 +1,13 @@
 +++
 title = "Design"
 date = 2018-08-24T10:53:05-05:00
-weight = 20
+weight = 30
 chapter = true
-pre = "<b>2. </b>"
+pre = "<b>3. </b>"
+draft = true
 +++
 
-### Chapter 2 Section 2
+### Chapter 2 Section 3
 
 # The Design Phase
 
