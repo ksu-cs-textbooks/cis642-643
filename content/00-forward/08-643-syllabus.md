@@ -16,10 +16,11 @@ This textbook was authored for the **CIS 642/643 - Software Engineering Project 
 * **Office:** DUE 2216
 * **Phone:** (785)483-9264 (Call/Text)
 * **Website:** [https://nathanhbean.com](https://nathanhbean.com)
+* **Office Hours:** MW 10:30-11:30
 * **Virtual Office Hours:** By appointment via [Zoom](ksu.zoom.us) or MS Teams.  Schedule a meeting via email or MS Teams Direct Message.
 
 ### Preferred Methods of Communication:
-* **Chat:** Quick questions via MS Teams are the preferred means of communication.   Questions whose answers may benefit the class I would encourage you to post in the course Team, as this keeps a public history your classmates can review. More personal questions should be direct messaged to me.
+* **Chat:** Quick questions via Discord is the preferred means of communication.   Questions whose answers may benefit the class I would encourage you to post in the course channel, as this keeps a public history your classmates can review. More personal questions should be direct messaged to me.
 * **Email:** For questions outside of this course, email to nhbean@ksu.edu is preferred.
 * **Phone/Text:** 785-483-9264 _Emergencies only!_ I will do my best to respond as quickly as I can.
 
@@ -30,7 +31,7 @@ This textbook was authored for the **CIS 642/643 - Software Engineering Project 
 _Students may enroll in CIS courses only if they have earned a grade of C or better for each prerequisite to these courses._
 
 ### Course Overview
-The first semester of a two-semester capstone course. Current practices of software development, requirements, design, prototyping, measures and evaluation. Specification, design, and prototyping of a software system.
+The second semester of a two-semester capstone course. Current practices of software development, requirements, design, prototyping, measures and evaluation. Specification, design, and prototyping of a software system.
 
 ## Course Description
 
@@ -46,20 +47,8 @@ You will be creating professional-grade software to tackle a real-world applicat
 
 This bulleted list captures the course objectives - by the completion of the course you will need to have demonstrated mastery of each point through developing your software engineering project to earn an A.
 
-## Major Course Topics
-* Software Engineering
-* Requirements Gathering
-* Feature Estimating
-* Testing and Verification
-* Continuous Deployment
-* Waterfall Development Model
-* Agile Development Models 
-
 ## Course Structure
-This course is primarily a project course – you will be grouped into teams by the instructor and assigned a specific, real-world software application to develop. Each project also comes with real-world customers who will provide guidance and design priorities, judge usability, negotiate development schedules, and determine how well your software meets their needs. Your projects will be released as open-source projects and hosted on a public Github repository. You should realize that this project will be one of the criteria by which your future employers will judge your suitability, as well as the recommendations of both your instructor and customers. 
-
-### Lectures, Readings, Class Discussions, and Activities
-While the core focus of this course is _learning by doing_, carrying out the principles of good software engineering while creating or expanding upon an open-source software project to meet society's needs, understanding the process begins with studying engineering practices. This will be done through video lectures, assigned readings, class discussions, and other class activities.  
+This course is primarily an experiential learning (i.e. project-centric) course – you will be grouped into teams by the instructor and assigned a specific, real-world software application to develop. Each project also comes with real-world customers who will provide guidance and design priorities, judge usability, negotiate development schedules, and determine how well your software meets their needs. Your projects will be released as open-source projects and hosted on a public Github repository. You should realize that this project will be one of the criteria by which your future employers will judge your suitability, as well as the recommendations of both your instructor and customers. 
 
 ### Software Projects
 Software projects will cover a wide range of uses as well as base technologies/development languages. The instructor will endeavor to match you to a project in your interest area, but this will not always be possible. In all cases, these are real-world projects that will go on to be used by hundreds or thousands of real-world users. Good design is essential and serves to support both these eventual users and to build your reputation as a software engineer.
@@ -90,7 +79,7 @@ For each sprint, your project needs to:
 1. Implement the features you agreed to in your sprint planning meeting
 2. Thoroughly document those features
 3. Thoroughly test or verify those features
-You should keep this in mind when you negotiate with your customers as to what features you will add to your prototype.  In effect, you are _negotiating the critera for an acceptable grade_!
+You should keep this in mind when you negotiate with your customers as to what features you will add to your prototype.  In effect, you are _negotiating the criteria for an acceptable grade_!
 {{% /notice %}}
 
 Grades will be issued on a 4-point scale, with 4=A and 0=F. Grades will be issued for each category according to this breakdown:
@@ -149,7 +138,13 @@ available to you:
 ## Subject to Change
 The details in this document are not set in stone – there may need to be adjustments made throughout the semester. If this occurs, changes will be posted to the K-State online page and emailed to student’s K-State email addresses. 
 
-{{% include "themes/ksucs-hugo-theme/static/files/syllabus-no-copyright.md" %}} 
+
+### Academic Honesty
+Kansas State University has an Honor and Integrity System based on personal integrity, which is presumed to be sufficient assurance that, in academic matters, one's work is performed honestly and without unauthorized assistance. Undergraduate and graduate students, by registration, acknowledge the jurisdiction of the Honor and Integrity System. The policies and procedures of the [Honor and Integrity System](https://www.k-state.edu/honor/) apply to all full and part-time students enrolled in undergraduate and graduate courses on-campus, off-campus, and via distance learning. A component vital to the Honor and Integrity System is the inclusion of the Honor Pledge which applies to all assignments, examinations, or other course work undertaken by students. The Honor Pledge is implied, whether or not it is stated: "On my honor, as a student, I have neither given nor received unauthorized aid on this academic work." A grade of XF can result from a breach of academic honesty. The F indicates failure in the course; the X indicates the reason is an Honor Pledge violation.
+
+**For this course, a violation of the Honor Pledge will result in sanctions such as a 0 on the assignment or an XF in the course, depending on severity. Actively seeking unauthorized aid, such as posting lab assignments on sites such as Chegg or StackOverflow or asking another person to complete your work, even if unsuccessful, will result in an immediate XF in the course.**
+
+{{% include "themes/ksucs-hugo-theme/static/files/syllabus-no-copyright-no-honesty.md" %}} 
 
 ## Copyright Notice
 ©2021 The materials in this online course fall under the protection of all intellectual property, copyright and trademark laws of the U.S. The digital materials included here come with the legal permissions and releases of the copyright holders. These course materials should be used for educational purposes only; the contents should not be distributed electronically or otherwise beyond the confines of this online course. The URLs listed here do not suggest endorsement of either the site owners or the contents found at the sites. Likewise, mentioned brands (products and services) do not suggest endorsement. Students own copyright to what they create.
