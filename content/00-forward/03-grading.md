@@ -27,6 +27,10 @@ Given the use of criterion grading, each Milestone release must meet **all** of 
 Remember, you must complete **ALL** the requirements above to earn points for your milestone.  Skipping documentation or testing will result in **NO POINTS EARNED** even if your program works!
 {{% /notice %}}
 
+{{% notice info %}}
+**Orientation Exception** As getting started in a new project often requires a lot of research and orientation to get grounded, the first sprint (and only the first sprint) is allowed to miss some of the requirements. Your feedback will specify what grade the sprint _would_ have earned based on the full grading criteria.
+{{% /notice %}}
+
 ### Attendance Grades
 Rather than taking attendance every day, which cuts into our class time, I instead record absences as negative points in the corresponding categories.  You can find two assignments in the **Absences** module: 
 * _Team Meeting Absences_ will be used to record absences from regular team meetings, i.e. the stand-ups and check-ins.  These are held during the class period, so there is no reason to miss them.
