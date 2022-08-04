@@ -5,7 +5,7 @@ weight: 10
 date: 2018-08-24T10:53:26-05:00
 ---
 
-The first step in any kind of software development project _should_ be to determine what the software needs to do.  In order to determine that, we need to fully undertand the problem. This is the core of what _requirements gathering_ is about.
+The first step in any kind of software development project _should_ be to determine what the software needs to do.  In order to determine that, we need to fully understand the problem. This is the core of what _requirements gathering_ is about.
 
 Think back to the story problems from your early days of math:
 

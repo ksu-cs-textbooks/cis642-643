@@ -15,12 +15,12 @@ Other paradigms - [Object-Orientation](https://en.wikipedia.org/wiki/Object-orie
 
 The tools used for programming also evolved side-by-side with the languages.  [Punched Cards](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era) were the primary means of creating programs until the mid-1970's, and many legacy systems continued to use this technology into the 1980s.  Punched cards were punched using a specialized keyboard similar to a typewriter known as a _keypunch_ that, insead of leaving inked charcacters on paper, punched holes in cards.  There was no _undo button_ - mistakes had to be repunched.
 
-![Punched Cards being written by students usign a IBM 026 keypunches]({{<static "images/0.5.1.jpg">}})
+![Punched Cards being written by students usign a IBM 026 keypunches](/images/0.5.1.jpg)
 
 With the advent of the computer terminal in the late 1960's 
 
-Similarly, the debugging tools available to programmers have evovled over time.  Only after the migration from punch-card systems to CRT monitors and keyboards did command-line debuggers appear - simple programs that could dump the contents of memory to the monitor as the program being debugged was running.  Symbolic debuggers (those that hold onto symbol names parsed during the compilation process and attach the corresponding in-memory values) and the ability to insert breakpoints (locations in code where execution would be paused) did not appear until much later, as this 1984 PC Magazine ad attests:
+Similarly, the debugging tools available to programmers have evolved over time.  Only after the migration from punch-card systems to CRT monitors and keyboards did command-line debuggers appear - simple programs that could dump the contents of memory to the monitor as the program being debugged was running.  Symbolic debuggers (those that hold onto symbol names parsed during the compilation process and attach the corresponding in-memory values) and the ability to insert breakpoints (locations in code where execution would be paused) did not appear until much later, as this 1984 PC Magazine ad attests:
 
-![ATRON Debugging advertisement in PC Magazine]({{<static "images/0.5.2.png">}})
+![ATRON Debugging advertisement in PC Magazine](/images/0.5.2.png)
 
 The modern Integrated Development Environment (IDE), programs like Visual Studio, XCode, Eclipse, Atom, VS Code, and the various JetBrains products, which combine program editing and debugging, simply didn't exist for much of programming history.  The first IDE was TurboPascal introduced by Borland Ltd. in 1983. Visual Studio did not appear until 1991.

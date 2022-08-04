@@ -17,15 +17,17 @@ If the programmers and software engineers who were creating the software didn't 
 
 An example of one of the equations from this text is: 
 
+```math
 $$
 MM = C (KDSI) ^ k
 $$
+```
 
 Where:  
-* $MM$ is the time spent on the project, measured in _man months_ (152 working hours)
-* $C$ is a constant
-* $KDSI$ is the number of source code lines in the delivered product
-* $k$ is another constant
+* {{<math>}}$MM${{</math>}} is the time spent on the project, measured in _man months_ (152 working hours)
+* {{<math>}}$C${{</math>}} is a constant
+* {{<math>}}$KDSI${{</math>}} is the number of source code lines in the delivered product
+* {{<math>}}$k${{</math>}} is another constant
 
 A common falicy arising from the practice of using _man months_ as a metric is the idea that adding more people to a project will get it done sooner.  This is the basis for Brooks Law: _adding more people to a late software project will make it later_.  This should be obvious to you as a programmer; bringing new programmers on board to help with an existing project means they must learn the details of the system being built, and the only people who can _teach_ them those details are those that are _currently building_ it. Increasing team size also increases meeting time and bureaucracy involved.
 

@@ -22,4 +22,4 @@ Hello students, and welcome to CIS 642/643 - Software Engineering Project I & II
 
 My name is Nathan Bean, and I will be your instructor for this course.
 
-![Nathan Bean]({{<static "images/bean-library.jpg">}})
+![Nathan Bean](/images/bean-library.jpg)

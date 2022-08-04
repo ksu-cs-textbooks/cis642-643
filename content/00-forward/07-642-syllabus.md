@@ -153,7 +153,7 @@ available to you:
 ## Subject to Change
 The details in this document are not set in stone – there may need to be adjustments made throughout the semester. If this occurs, changes will be posted to the K-State online page and emailed to student’s K-State email addresses. 
 
-{{% include "themes/ksucs-hugo-theme/static/files/syllabus-no-copyright.md" %}} 
+{{< syllabus exclude="copyright">}}
 
 ## Copyright Notice
 ©2021 The materials in this online course fall under the protection of all intellectual property, copyright and trademark laws of the U.S. The digital materials included here come with the legal permissions and releases of the copyright holders. These course materials should be used for educational purposes only; the contents should not be distributed electronically or otherwise beyond the confines of this online course. The URLs listed here do not suggest endorsement of either the site owners or the contents found at the sites. Likewise, mentioned brands (products and services) do not suggest endorsement. Students own copyright to what they create.

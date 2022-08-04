@@ -10,6 +10,6 @@ The first formal description of this model comes from a 1970 paper "Managing the
 
 His formal description broke several phases into more nuanced form, as reflected in this diagram:
 
-![The Royce Basic Waterfall]({{<static "images/2.2.1.png">}})
+![The Royce Basic Waterfall](/images/2.2.1.png)
 
-The _Requirements_ phase he split into two parts, _System Requirements_ (focused on the hardware infrastructure), and _Software Requirements_ (focused on the program).  Similarly, _Design_ was split into an _Analysis_ phase (which picked apart the data collected during the requirements phases to determine _exactly_ and _consicely_ what the system should be able to do) and the _Program Design_ phase where the software architecture was created.  _Coding_ corresponds to _Implementation_, _Testing_ with _Verifications_, and _Operations_ with _Maintenance_.
+The _Requirements_ phase he split into two parts, _System Requirements_ (focused on the hardware infrastructure), and _Software Requirements_ (focused on the program).  Similarly, _Design_ was split into an _Analysis_ phase (which picked apart the data collected during the requirements phases to determine _exactly_ and _concisely_ what the system should be able to do) and the _Program Design_ phase where the software architecture was created.  _Coding_ corresponds to _Implementation_, _Testing_ with _Verifications_, and _Operations_ with _Maintenance_.
