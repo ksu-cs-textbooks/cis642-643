@@ -13,8 +13,8 @@ As an experiential course intended to prepare you for the transition to industry
 
 While this may seem harsh at first, it parallels what you can expect on the job.  If you regularly turn in "almost-there" work in a professional setting, you can expect to be looking for a new job in short order.  Your work **must** be of acceptable level.  Of course, you should strive to do _exceptional_ work rather than just acceptable - so there is a possible 5% bonus on criteria-graded assignments for exceptional work.
 
-### Milestone Grades
-Given the use of criterion grading, each Milestone release must meet **all** of these requirements:
+### Sprint Release Grades
+Given the use of criterion grading, each Sprint Release must meet **all** of these requirements:
 * __Code Quality__ Code should compile and run, not suffer from unhandled errors, and perform as described in the user documentation.
 * __Coding Style__ A consistent and understandable coding style should be employed throughout the code base.  Variable names should be consistent and descriptive of their roles. Indentation should be used consistently to delineate nested code bodies.
 * __In-Code Documentation__ Code should contain detailed in-line descriptions of each class, property, method, and function at their point of declaration. An auto-document style appropriate to the language should be used for inline comments. Non-obvious sections of code should be commented with a description of their operation and purpose. The documentation should be legible, grammatically correct, and profanity free.
@@ -24,7 +24,7 @@ Given the use of criterion grading, each Milestone release must meet **all** of 
 * __Test Suite__ The release should include an appropriate test suite that performs unit and integration tests on the existing code base, and all tests should pass. If an automated test suite is not possible, the release should include a written test plan and documentation of its outcome for the release.
 
 {{% notice warning %}}
-Remember, you must complete **ALL** the requirements above to earn points for your milestone.  Skipping documentation or testing will result in **NO POINTS EARNED** even if your program works!
+Remember, you must complete **ALL** the requirements above to earn points for your release.  Skipping documentation or testing will result in **NO POINTS EARNED** even if your program works!
 {{% /notice %}}
 
 {{% notice info %}}
@@ -34,10 +34,10 @@ Remember, you must complete **ALL** the requirements above to earn points for yo
 ### Attendance Grades
 Rather than taking attendance every day, which cuts into our class time, I instead record absences as negative points in the corresponding categories.  You can find two assignments in the **Absences** module: 
 * _Team Meeting Absences_ will be used to record absences from regular team meetings, i.e. the stand-ups and check-ins.  These are held during the class period, so there is no reason to miss them.
-* _Formal Meeting Absences_ will be used to record abences from the formal team meetings - i.e. _Sprint Planning_ and _Sprint Review_ meetings.  These are the meetings where you present your work and plan future work **with your customers** so absences here are a big deal.  Each absence will deduct points equivalent to a drop of a letter grade in the course.  
+* _Formal Meeting Absences_ will be used to record absences from the formal team meetings - i.e. _Sprint Planning_ and _Sprint Review_ meetings.  These are the meetings where you present your work and plan future work **with your customers** so absences here are a big deal.  Each absence will deduct points equivalent to a drop of a letter grade in the course.  
 
 {{% notice note %}}
-Given the COVID-19 pandemic and the highly contagious nature of the Omicron variant, the attendance policy will be relaxed this semester.  You should **contact the instructor directly** if you will be absent.  However, if you cannot attend in person, please arrange to join your team for these meetings remotely via Zoom, Discord voice channel, or other means.  Repeated absences due to illness will be referred to the Office of Student Life for verification.
+Given the COVID-19 pandemic and the highly contagious nature of the BA.5 variant, the attendance policy will be slightly relaxed this semester.  You should **contact the instructor directly** if you will be absent.  However, if you cannot attend in person, please arrange to join your team for these meetings remotely via Zoom, Discord voice channel, or other means.  Repeated absences due to illness will be referred to the Office of Student Life for verification.
 {{% /notice %}}
 
 <!--
@@ -58,5 +58,14 @@ Base score = 100 points
 
 This means that a category score of 8, 9, or 10 is "acceptable" and does not impact your grade.  However, a score of 8 does suggest you have room to improve in this category, and should strive to do so.  Keep this in mind when you fill out peer reviews for your teammates - you can rate them at an 8 or 9 to indicate that you see room for improvement without hurting their grade.
 
+{{% notice warning %}}
+#### Academic Honesty and Group Work
 
+This course makes _extensive_ use of team projects, which brings up an important topic in academic honesty. Remember that as a K-State Student, you are bound by the honor pledge:
 
+> On my honor, as a student, I have neither given nor received unauthorized aid on this academic work.
+
+For team projects, the expectation is that _all members of the team_ contribute to the project in a meaningful and substantial way. If you fail to contribute, you are effectively receiving _unauthorized aid_ by claiming your teams' work as your own.  
+
+Accordingly, the penalty for this behavior in the course is a grade of XF (failed for academic dishonesty) and being reported to the honor council. If you inform the instructor of your non-participation _before_ the assignment is graded, you will instead receive a 0 for the assignment.
+{{% /notice %}}
