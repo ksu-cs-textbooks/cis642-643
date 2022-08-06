@@ -3,7 +3,6 @@ title: "Class Diagram"
 pre: "3. "
 weight: 30
 date: 2018-08-24T10:53:26-05:00
-draft: false
 ---
 
 To put it succinctly, a UML Class Diagram represents the classes and the associations between the classes in an object-oriented program.  Each class is represented by a separate box, and the associations between classes by arrows. The intent of the class diagram is to represent the complete structure (but not behavior) of an object-oriented program. This allows individual programmers to focus only a small part of the overall program - a class and the classes it has associations with.  Combined with the other information contained in the design document, the programmer can implement their piece of the program and it should 'just work' when combined with the code written by other programmers.

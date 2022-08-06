@@ -3,7 +3,6 @@ title: "Database Diagram"
 pre: "4. "
 weight: 40
 date: 2018-08-24T10:53:26-05:00
-draft: false
 ---
 
 Most production applications today utilize structured data that is commonly stored using a specialized application known as a _database_.  For traditional relational databases, a number of modeling approaches have been developed, including UML database diagrams, Entity Relationship diagrams, and Crows-foot notation.  The purposes behind these modeling approaches is similar to that of the UML Class Diagram - a database model allows its readers to 1) quickly set up the database structure and 2) understand how to access the needed information (i.e. how to author SQL queries to obtain the needed data).  

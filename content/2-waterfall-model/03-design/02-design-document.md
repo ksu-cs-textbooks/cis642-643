@@ -3,7 +3,6 @@ title: "Design Document"
 pre: "2. "
 weight: 20
 date: 2018-08-24T10:53:26-05:00
-draft: false
 ---
 
 The outcome of the design phase is a _design document_.  It provides a design, or _specification_, for a software system. You can think of it like an architect's blueprints provide the details for construction tradesmen to build a building - it provides rich enough direction that skilled laborers can follow in carrying out their portion of the work. In the waterfall model, the design document fulfills a similar role - it allows the work of building a software system to be broken down and assigned to different programmers focusing on a specific aspect of the system.  If they follow the specification in the design, then the code created by each of these programmers works cohesively to create a viable program. 
