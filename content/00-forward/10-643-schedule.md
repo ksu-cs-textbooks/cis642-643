@@ -3,7 +3,6 @@ title: "CIS 643 Schedule"
 pre: "10. "
 weight: 100
 date: 2018-08-24T10:53:26-05:00
-draft: true
 ---
 
 This schedule represents the "idealized" schedule for the semester.  For specific dates, refer to the course page on Canvas.
@@ -16,11 +15,11 @@ This schedule represents the "idealized" schedule for the semester.  For specifi
 </tr>
 <tr>
     <td>1</td>
-    <td>-</td>
+    <td>&mdash;</td>
     <td>
         <ul>
             <li>Expectations for the Semester</li>
-            <li>Semester Goals Due</li>
+            <li>Specifications Document</li>
             <li>Sprint 7 planning meeting</li>            
         </ul>
     </td>
@@ -203,6 +202,7 @@ This schedule represents the "idealized" schedule for the semester.  For specifi
   </tr>
   <tr>
     <td>16</td>
+    <td>&mdash;</td>
     <td>
         <ul>
             <li>Final Presentations</li>

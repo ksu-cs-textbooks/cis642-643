@@ -12,23 +12,27 @@ You will need to:
 2. Create a release tag for the sprint
 3. Upload your release URL.
 
-Your software will be graded according to the following rubric:
+In SCRUM, a sprint either succeeds or fails. A sprint fails when not all the items in the sprint backlog were completed, or when the implementation of those items is lacking in some degree.  This includes functional issues, inaccurate documentation, or incomplete test coverage.
 
-#### Code Quality (20 points)
-Does the code compile and run? Does it suffer from unhandled errors? Does it perform as described in the user documentation?
+To reflect this, we are adapting _criterion grading_ in evaluating sprint releases.  A successful sprint earns full points.  A failed sprint earns 0 points.  
 
-#### Coding Style (10 points)
-Is there a consistent and understandable coding style employed throughout the code base? Are variable names consistent and descriptive of their roles? Is indentation used consistently to delineate nested code bodies?
+The criteria your sprint release will be evaluated against are the goals you set in your sprint backlog.  Each item in the backlog should be complete in the release. Completion means it meets the following standards:
 
-#### In-Code Documentation (10 points)
-Does the code include a detailed inline documentation description of each class, method, and function at their point of declaration? Is an auto-document style used for inline comments? Are non-obvious sections of code commented with a description of their purpose? Is the documentation legible, grammatically correct, and profanity free?
+#### Code Quality
+The code compiles and runs.  It does not suffer from unhandled errors. It performs as described in the user documentation.
 
-#### Licensing (5 points)
-Does each file begin with a comment stating copyright and license information? Is the full text of the license included with the project code?
+#### Coding Style
+There is a consistent and understandable coding style employed throughout the code base. Variable names consistent and descriptive of their roles. Indentation used consistently to delineate nested code bodies.
 
-#### Developer Documentation (15 points)
-Is the documentation sufficient to orient a new programmer to the codebase and describe where the important aspects of the code are located? Does the programmer documentation include diagrams of the code structures and how they interact (i.e. class diagrams, database diagrams, use-case diagrams) where appropriate? Does the documentation describe how to set up the development and deployment environments? Is the documentation legible, grammatically correct, and profanity free?
+#### In-Code Documentation 
+The code includes detailed inline documentation description of each class, method, and function at their point of declaration. When available, an auto-document style used for inline comments. Non-obvious sections of code commented with a description of their purpose. The documentation is legible, grammatically correct, and profanity free.
 
-#### Test Suite (20 points)
-Does the release include an appropriate test suite that performs unit and integration tests on the existing code base? Do all tests pass? If an automated test suite is not possible, does the release include a written test plan and documentation of its outcome for the release?
+#### Licensing 
+The GitHub/GitLab repository indicates the license used. The full text of the license included with the project code.
+
+#### Developer Documentation
+The documentation sufficient to orient a new programmer to the codebase and describe where the important aspects of the code are located. Programmer documentation include appropriate diagrams to convey code structure and functionality (i.e. Context, Containers, Components, and Code diagrams, Class Diagrams, Database Diagrams, Swimlanes, Use-Case diagrams). The documentation legible, grammatically correct, and profanity free.
+
+#### Test Suite 
+The release include an appropriate test suite that performs unit and integration tests on the existing code base. All tests pass. Where an automated test suite is not possible, the release includes a written test plan and documentation of its outcome for the release.
 

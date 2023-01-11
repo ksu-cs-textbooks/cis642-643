@@ -7,12 +7,26 @@ date: 2018-08-24T10:53:26-05:00
 
 To put it succinctly, a UML Class Diagram represents the classes and the associations between the classes in an object-oriented program.  Each class is represented by a separate box, and the associations between classes by arrows. The intent of the class diagram is to represent the complete structure (but not behavior) of an object-oriented program. This allows individual programmers to focus only a small part of the overall program - a class and the classes it has associations with.  Combined with the other information contained in the design document, the programmer can implement their piece of the program and it should 'just work' when combined with the code written by other programmers.
 
+```mermaid
+classDiagram
+  Bear <|-- AnimatedBear
+  class Bear{
+    <<abstract>>
+    +name string
+    growl()* string
+  }
+  class AnimatedBear{
+    +growl() string
+    +dance()
+  }
+```
+
 ### Visibility
 
 In a UML class diagram, visibility (public/protected/private) is specified with symbols:
-* {{<math>}}$+${{</math>}} indicates public
-* {{<math>}}$-${{</math>}} indicates private
-* {{<math>}}$\#${{</math>}} indicates protected
+* {{<math>}}$\texttt{+}${{</math>}} indicates public
+* {{<math>}}$\texttt{-}${{</math>}} indicates private
+* {{<math>}}$\texttt{#}${{</math>}} indicates protected
 
 ### Classes 
 The boxes representing a class are divided into three compartments. The first compartment displays the class identity, the second its attributes (fields), and the third its operations (methods). 

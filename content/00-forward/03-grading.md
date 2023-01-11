@@ -36,15 +36,11 @@ Rather than taking attendance every day, which cuts into our class time, I inste
 * _Team Meeting Absences_ will be used to record absences from regular team meetings, i.e. the stand-ups and check-ins.  These are held during the class period, so there is no reason to miss them.
 * _Formal Meeting Absences_ will be used to record absences from the formal team meetings - i.e. _Sprint Planning_ and _Sprint Review_ meetings.  These are the meetings where you present your work and plan future work **with your customers** so absences here are a big deal.  Each absence will deduct points equivalent to a drop of a letter grade in the course.  
 
-{{% notice note %}}
-Given the COVID-19 pandemic and the highly contagious nature of the BA.5 variant, the attendance policy will be slightly relaxed this semester.  You should **contact the instructor directly** if you will be absent.  However, if you cannot attend in person, please arrange to join your team for these meetings remotely via Zoom, Discord voice channel, or other means.  Repeated absences due to illness will be referred to the Office of Student Life for verification.
-{{% /notice %}}
+If you are experiencing illness, including symptoms of COVID-19 or have a positive COVID-19 test result, you should not attend the meeting in person. Instead, please arrange to join your team for these meetings remotely via Zoom, Discord voice channel, or other means.  Repeated absences due to illness will be referred to the Office of Student Life for verification.
 
-<!--
 {{% notice warning %}}
 Be aware that missing _three_ formal meetings automatically lowers your grade below a C - which means you can no longer count the course for your degree requirements!  And missing _two_ formal meetings will drop you to a C - which means you will need an otherwise perfect grade to maintain a C. 
 {{% /notice %}}
--->
 
 ### Peer and Customer Reviews
 Not all assignments are criterion-graded.  Specifically, the _peer review_ and _customer review_ assignments are based on a survey given to your team members and customers, respectively.  This survey asks them to evaluate you on a scale of 1 to 10 across several categories.  Instead of translating directly to a grade, we use the following calculation:
