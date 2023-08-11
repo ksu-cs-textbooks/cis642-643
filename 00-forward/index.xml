@@ -1,0 +1,372 @@
+
+
+
+
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course Information on K-State CIS 642/643 Textbook</title>
+    <link>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/index.html</link>
+    <description>Recent content in Course Information on K-State CIS 642/643 Textbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Aug 2018 10:53:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cis642-643/00-forward/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/01-introduction/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/01-introduction/index.html</guid>
+      <description>Web Only This textbook was authored for the CIS 642 - Software Engineering Project I/CIS 643 - Software Engineering Project II courses at Kansas State University. This front matter is specific to those courses. If you are not enrolled in one of these courses, please disregard this section.
+Welcome Message Hello students, and welcome to CIS 642/643 - Software Engineering Project I &amp;amp; II. This is the two-semester capstone course for the Bachelor of Computer Science at Kansas State University.</description>
+    </item>
+    <item>
+      <title>Course Structure</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/02-course-structure/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/02-course-structure/index.html</guid>
+      <description>Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.
+This course is primarily a project-based experiential course, where you will learn about software engineering through engaging in the practices of software development. You will be working in small teams of 3-5 students to develop open-source software to meet the needs of a customer assigned to your team.</description>
+    </item>
+    <item>
+      <title>Grading</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/03-grading/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/03-grading/index.html</guid>
+      <description>Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.
+As an experiential course intended to prepare you for the transition to industry, grading operates a bit differently in this class. We will be employing criterion grading. With criterion grading, your work is either deemed &amp;ldquo;acceptable&amp;rdquo; or &amp;ldquo;unacceptable&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>Course Textbooks</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/04-textbooks/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/04-textbooks/index.html</guid>
+      <description>Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.
+This course does not have a required print textbook. The resources presented in the modules are also organized into an online textbook that can be accessed here: https://ksu-cs-textbooks.github.io/cis642-643/ . You may find this a useful reference if you prefer a traditional textbook layout.</description>
+    </item>
+    <item>
+      <title>Course Software</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/05-course-software/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/05-course-software/index.html</guid>
+      <description>Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.
+As each development team&amp;rsquo;s project may use different technologies and require different development tools, it is difficult to say exactly what software you&amp;rsquo;ll need ahead of time. However, there are a couple of programs everyone in the course will be using:</description>
+    </item>
+    <item>
+      <title>Where to Find Help</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/06-where-to-find-help/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/06-where-to-find-help/index.html</guid>
+      <description>Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.
+As you work on the materials in this course, you may run into questions or problems and need assistance. This section reviews the various types of help available to you in this course.</description>
+    </item>
+    <item>
+      <title>CIS 642 Syllabus</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/07-642-syllabus/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/07-642-syllabus/index.html</guid>
+      <description>Syllabi from prior semesters can be accessed here Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.
+CIS 642 - Software Engineering Project I (Fall 2022) Instructor Contact Information Class Times &amp;amp; Location: MWF 9:30am-11:20am DUF 1092 Instructor: Nathan Bean (nhbean AT ksu DOT edu) Office: DUE 2216 Phone: (785)483-9264 (Call/Text) Website: https://nathanhbean.</description>
+    </item>
+    <item>
+      <title>CIS 643 Syllabus</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/08-643-syllabus/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/08-643-syllabus/index.html</guid>
+      <description>Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.
+CIS 643 - Software Engineering Project II Instructor Contact Information Instructor: Nathan Bean (nhbean AT ksu DOT edu) Office: DUE 2216 Phone: (785)483-9264 (Call/Text) Website: https://nathanhbean.com Office Hours: MW 10:30-11:30 Virtual Office Hours: By appointment via Zoom or MS Teams.</description>
+    </item>
+    <item>
+      <title>CIS 642 Schedule</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/09-642-schedule/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/09-642-schedule/index.html</guid>
+      <description> Week Day Before Class In Class 1 1 Read the syllabus and complete the quiz Course expectations, Introductions, and Team Formation Survey 2 Read the History of Software Development, claim your software failure Present on your Software Failure 3 Read about the Waterfall Model of Software Engineering Requirements Gathering Exercise 2 4 Review UML, Design Patterns Software Design Exercise 5 Review documentation and testing Development Exercise 6 Read verification and maintenance sections Maintenance exercise 3 7 Read about Agile development 8 9 4 Sprint 1 5 6 Sprint 2 7 8 Sprint 3 9 10 Sprint 4 11 12 Sprint 5 13 14 Sprint 6 15 16 Final Presentations </description>
+    </item>
+    <item>
+      <title>CIS 643 Schedule</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/10-643-schedule/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/10-643-schedule/index.html</guid>
+      <description>This schedule represents the &amp;ldquo;idealized&amp;rdquo; schedule for the semester. For specific dates, refer to the course page on Canvas.
+Week Sprint Activity 1 &amp;mdash; Expectations for the Semester Specifications Document Sprint 7 planning meeting 2 7 Sprint 7 planning meeting (alternate time) Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor 3 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor Sprint 7 Review Meeting Sprint 7 Release Tag Due Sprint 7 Peer Reviews Due Sprint 8 Planning Meeting 4 8 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor 5 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor Sprint 8 Review Meeting Sprint 8 Release Tag Due Sprint 8 Peer Reviews Due Sprint 9 Planning Meeting 6 9 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor 7 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor Sprint 9 Review Meeting Sprint 9 Release Tag Due Sprint 9 Peer Reviews Due Sprint 10 Planning Meeting 8 10 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor 9 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor Sprint 10 Review Meeting Sprint 10 Release Tag Due Sprint 10 Peer Reviews Due Sprint 11 Planning Meeting 10 11 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor 11 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor Sprint 11 Review Meeting Sprint 11 Release Tag Due Sprint 11 Peer Reviews Due Sprint 12 Planning Meeting 12 12 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor 13 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor Sprint 12 Review Meeting Sprint 12 Release Tag Due Sprint 12 Peer Reviews Due Sprint 13 Planning Meeting 14 13 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor 15 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor Sprint 13 Review Meeting Sprint 13 Release Tag Due Sprint 13 Peer Reviews Due 16 &amp;mdash; Final Presentations </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,356 @@
+
+
+
+
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>History of Software Development on K-State CIS 642/643 Textbook</title>
+    <link>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/index.html</link>
+    <description>Recent content in History of Software Development on K-State CIS 642/643 Textbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Aug 2018 10:53:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/01-introduction/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/01-introduction/index.html</guid>
+      <description>Since we&amp;rsquo;ve had computers, we&amp;rsquo;ve had programs running on them. But what these programs look like, as well as how they are written, has changed drastically over the short period we&amp;rsquo;ve had electronic digital computers. It can be helpful to review this evolution before we delve into software engineering as a discipline, because this storied history has an immense impact on how software is created.
+Key Terms Some key terms to learn in this chapter are:</description>
+    </item>
+    <item>
+      <title>Early Programming</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/02-early-programming/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/02-early-programming/index.html</guid>
+      <description>You probably remember seeing pictures of the room-sized ENIAC, the first digial computer constructed in the United States, in CIS 115. But do you remember how it was programmed?
+That&amp;rsquo;s actually what these two women - Gloria Ruth Gordon Bolotsky and Esther Gertson - are doing in the picture. They are programming the ENIAC by plugging jumper cables into a switchboard. Effectively, programming the ENIAC consisted of physically rewiring the computer to support the new program.</description>
+    </item>
+    <item>
+      <title>Software Engineering</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/03-software-engineering/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/03-software-engineering/index.html</guid>
+      <description>The Apollo missions were marked for their heavy use of computers. For example, this next picture is the memory core of an Apollo Guidance Computer, developed for the Apollo missions. The two hands you see in the picture belong to professional weavers who were hired to implement the program for the mission. The program was encoded using core rope memory , a kind of read-only memory that stored 0 and 1 values by the inclusion or omission of a wire through a series of tiny magnetic rings.</description>
+    </item>
+    <item>
+      <title>Growth of Computing</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/04-growth-of-computing/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/04-growth-of-computing/index.html</guid>
+      <description>The unfolding software crisis was coupled to the growth of computing. As Edsger Dijkstra put it in his 1972 ACM Turing Award acceptance speech: 1
+The major cause of the software crisis is that the machines have become several orders of magnitude more powerful! To put it quite bluntly: as long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.</description>
+    </item>
+    <item>
+      <title>Evolution of Programming</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/05-evolution-of-programming/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/05-evolution-of-programming/index.html</guid>
+      <description>The poor programming practices of cowboy coding and the growing numbers of unskilled programmers did not go unremarked. In fact, many of the programming language features you are familiar with were developed explictly to counter these trends - i.e. to &amp;lsquo;idiot-proof&amp;rsquo; programming.
+Consider all the control-flow constructs you know: the for loop, the while loop, the if/else statement, the switch statement, the ternary operator, etc. None of these existed in early programming languages.</description>
+    </item>
+    <item>
+      <title>Software Project Management</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/06-project-management/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/06-project-management/index.html</guid>
+      <description>Beyond the increasing demand for programs, the large-scale recruitment of unprepared programmers, and the lack of good development tools, another factor marked many failed projects, mismanagement.
+Software was a new kind of product, and nobody had a really strong grasp of what would be invovled in developing it. The Steve Jobs quote this chapter opened with, &amp;ldquo;When we started off we didn&amp;rsquo;t know how to spell software&amp;rdquo; is telling. Similarly, Dick Battin, one of the engineers behind the Apollo Guidance system admitted &amp;ldquo;&amp;hellip; we had no idea how we were going to do this job, other than to try [to] model it after the Mars probe.</description>
+    </item>
+    <item>
+      <title>The Software Crisis</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/07-software-crisis/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/07-software-crisis/index.html</guid>
+      <description>Now that we know some of the causes, what exactly was the software crisis? It is a period of time marked by bungled software projects, whose common problems included:
+Projects that ran over-budget Projects that ran over-time Software that made inefficient use of calculations and memory Software was of low quality Software that failed to meet the requirements it was developed to meet Projects that became unmanageable and code difficult to maintain Software that never finished development Let&amp;rsquo;s review some representative examples.</description>
+    </item>
+    <item>
+      <title>Summary</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/08-summary/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/08-summary/index.html</guid>
+      <description>If you paid attention to the dates in the previous section, then you know the software crisis is still very much with us, despite all the improvements in programming languages, tools, and management practices. The best defense against project failure may well be found in software engineering processes, which is the subject we will be studying for the rest of the book.
+But just like any process, if it is misapplied, poorly followed, or simply blindly followed for the sake of procedure it will not succeed.</description>
+    </item>
+  </channel>
+</rss>

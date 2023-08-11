@@ -1,0 +1,370 @@
+
+
+
+
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.117.0">
+    <meta name="generator" content="Relearn 5.18.0">
+    <meta name="description" content="K-State CIS 642/643 Textbook">
+    <meta name="author" content="Nathan Bean">
+    <title>Design Document :: K-State CIS 642/643 Textbook</title>
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/02-design-document/index.html" rel="canonical" type="text/html" title="Design Document :: K-State CIS 642/643 Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/02-design-document/index.xml" rel="alternate" type="application/rss+xml" title="Design Document :: K-State CIS 642/643 Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/02-design-document/index.print.html" rel="alternate" type="text/html" title="Design Document :: K-State CIS 642/643 Textbook">
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/02-design-document/embed.html" rel="alternate" type="text/html" title="Design Document :: K-State CIS 642/643 Textbook">
+    <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/css/fontawesome-all.min.css?1691773009" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cis642-643/css/fontawesome-all.min.css?1691773009" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/css/nucleus.css?1691773009" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/css/auto-complete.css?1691773009" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cis642-643/css/auto-complete.css?1691773009" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/css/perfect-scrollbar.min.css?1691773009" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/css/fonts.css?1691773009" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://ksu-cs-textbooks.github.io/cis642-643/css/fonts.css?1691773009" rel="stylesheet"></noscript>
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/css/theme.css?1691773009" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/css/theme-auto.css?1691773009" rel="stylesheet" id="variant-style">
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/css/variant.css?1691773009" rel="stylesheet">
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/css/print.css?1691773009" rel="stylesheet" media="print">
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/css/ie.css?1691773009" rel="stylesheet">
+    <script src="https://ksu-cs-textbooks.github.io/cis642-643/js/url.js?1691773009"></script>
+    <script src="https://ksu-cs-textbooks.github.io/cis642-643/js/variant.js?1691773009"></script>
+    <script>
+      // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
+      // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
+      window.index_js_url="https://ksu-cs-textbooks.github.io/cis642-643/index.search.js";
+      var root_url="https://ksu-cs-textbooks.github.io/cis642-643/";
+      var baseUri=root_url.replace(/\/$/, '');
+      // translations
+      window.T_Copy_to_clipboard = 'Copy to clipboard';
+      window.T_Copied_to_clipboard = 'Copied to clipboard!';
+      window.T_Copy_link_to_clipboard = 'Copy link to clipboard';
+      window.T_Link_copied_to_clipboard = 'Copied link to clipboard!';
+      window.T_No_results_found = 'No results found for \u0022{0}\u0022';
+      window.T_N_results_found = '{1} results found for \u0022{0}\u0022';
+      // some further base stuff
+      var baseUriFull='https:\/\/ksu-cs-textbooks.github.io\/cis642-643/';
+      window.variants && variants.init( [ 'auto', 'light-theme', 'dark-theme' ] );
+    </script>
+    
+    <link href="https://ksu-cs-textbooks.github.io/cis642-643/css/custom.css?1691773009" rel="stylesheet">
+
+  </head>
+  <body class="mobile-support tele disableInlineCopyToClipboard" data-url="https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/02-design-document/index.html">
+    
+    <div id="tele" class="tele mirror">
+    
+    <div id="body" class="default-animation">
+      
+      
+      
+      <main id="body-inner" class="highlightable default" tabindex="-1">
+        <div class="flex-block-wrapper">
+          <article class="default">
+            <header class="headline">
+            </header>
+<h1 id="design-document">Design Document</h1>
+
+<p>The outcome of the design phase is a <em>design document</em>.  It provides a design, or <em>specification</em>, for a software system. You can think of it like an architect&rsquo;s blueprints provide the details for construction tradesmen to build a building - it provides rich enough direction that skilled laborers can follow in carrying out their portion of the work. In the waterfall model, the design document fulfills a similar role - it allows the work of building a software system to be broken down and assigned to different programmers focusing on a specific aspect of the system.  If they follow the specification in the design, then the code created by each of these programmers works cohesively to create a viable program.</p>
+<p>On the other hand, if the document lacks sufficient detail, or the programmers disregard aspects of the design and substitute their own ideas, the overall program will be compromised.  Returning to the building metaphor, one of the classrooms in our department was originally built with the projection screen deploying over the exit door - a clear case of either 1) lack of detail in the plans, or 2) an installer not following them.</p>
+<p>As you can imagine, a design document can grow quite large. To help combat this, Unified Modeling Language (UML) and other modeling approaches have been developed to convey design aspects visually, allowing the text of the document to focus on conveying key details. You&rsquo;ve already worked with many UML diagrams and specifications in your education - most of your early programming assignments were essentially specifications. We&rsquo;ll review those (and possibly introduce a few more) next.</p>
+
+            <footer class="footline">
+
+            </footer>
+          </article>
+        </div>
+      </main>
+    </div>
+    
+    </div>
+    
+    
+    
+    
+    <script src="https://ksu-cs-textbooks.github.io/cis642-643/js/clipboard.min.js?1691773009" defer></script>
+    <script src="https://ksu-cs-textbooks.github.io/cis642-643/js/perfect-scrollbar.min.js?1691773009" defer></script>
+    <script src="https://ksu-cs-textbooks.github.io/cis642-643/js/theme.js?1691773009" defer></script>
+    
+    <script src="https://ksu-cs-textbooks.github.io/cis642-643/js/tele-scroll.js?1691773009 defer"></script>
+    
+  </body>
+</html>

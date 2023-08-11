@@ -1,0 +1,332 @@
+
+
+
+
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Waterfall Model on K-State CIS 642/643 Textbook</title>
+    <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/index.html</link>
+    <description>Recent content in The Waterfall Model on K-State CIS 642/643 Textbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Aug 2018 10:53:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/01-introduction/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/01-introduction/index.html</guid>
+      <description>The waterfall model of software development breaks the process of creating software into discrete phases, as seen in this diagram:
+The phases correspond to specific steps that must be carried out to create the software:
+Requirements involves determining exactly what the software needs to do, as well as what platform(s) it needs to run on. Design involves designing the software system to meet those requirements - i.e. laying out a high-level architecture, often specifying this architecture with UML or similar approaches.</description>
+    </item>
+    <item>
+      <title>Requirements Gathering</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:05 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/index.html</guid>
+      <description>But what does it do?</description>
+    </item>
+    <item>
+      <title>Waterfall Issues</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/09-issues/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/09-issues/index.html</guid>
+      <description>You may be wondering, if this model of software engineering was so widely adopted, why did so many software projects continue to fail? Of course, some development houses never adopted a formal model, and rather continued in cowboy coding practices. But there were also many flaws in how the waterfall model was commonly adopted.
+The ability to divide labor amongst the different phases was a boon from a business perspective, but it came with challenges.</description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:05 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/index.html</guid>
+      <description>Let&amp;rsquo;s come up with a plan!</description>
+    </item>
+    <item>
+      <title>Implementation</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/04-implementation/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/04-implementation/index.html</guid>
+      <description>The implementation phase of the waterfall should be the most familiar to you, as it is the actual process of creating the proposed software system. This is, after all, the subject of most of your early coursework - the basics of programming, algorithm design, and considering time and memory complexity of your employed algorithms.
+It is critical that the implementation adhere to the details provided by the design, as this ensures that a large body of programmers can work independently on the aspects of the system.</description>
+    </item>
+  </channel>
+</rss>

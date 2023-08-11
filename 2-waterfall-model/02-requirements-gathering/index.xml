@@ -1,0 +1,370 @@
+
+
+
+
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Requirements Gathering on K-State CIS 642/643 Textbook</title>
+    <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/index.html</link>
+    <description>Recent content in Requirements Gathering on K-State CIS 642/643 Textbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Aug 2018 10:53:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/01-introduction/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/01-introduction/index.html</guid>
+      <description>The first step in any kind of software development project should be to determine what the software needs to do. In order to determine that, we need to fully understand the problem. This is the core of what requirements gathering is about.
+Think back to the story problems from your early days of math:
+If a train leaves station A heading west at 66 miles per hour, and a second train leaves station B at 44 miles per hour, when will they meet?</description>
+    </item>
+    <item>
+      <title>Formal Requirements</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/02-formal-requirements/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/02-formal-requirements/index.html</guid>
+      <description>When gathering requirements for designing a large software system, it is common to find yourself ending up with a lot of potential requirements. It is useful to organize these in some formal fashion, as it makes it far easier to find the right requirements for the right point in the design phase. It also can make it easier to determine if you&amp;rsquo;ve missed any potentially important requirements.
+So what exactly is a requirement?</description>
+    </item>
+    <item>
+      <title>Business and Functional Requirements</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/03-business-and-functional-requirements/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/03-business-and-functional-requirements/index.html</guid>
+      <description>As the previous discussion suggests, requirements can be categorized into business requirements and functional requirements.
+Business requirements tend to be high-level, and express the requirement in terms that the customers and business professionals understand. These will typically be the requirements that are bundled into contractual agreements as well.
+An example of a business requirement might be &amp;ldquo;The online sales platform must collect sales tax information and provide reports to the accountants on that sales tax.</description>
+    </item>
+    <item>
+      <title>Non-Functional Requirements</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/04-non-functional-requirements/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/04-non-functional-requirements/index.html</guid>
+      <description>There are typically non-functional requirements in every software development project as well. These aren&amp;rsquo;t captured in the software we are developing, but inform our choices of platform, language, and approach.
+Non-functional requirements commonly include:
+Hardware The hardware that will be available for the software to run on. This might be determined by what the customer already has, or they may be intending to purchase new hardware - in which case the software developers may be able to make recommendations.</description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/05-features/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/05-features/index.html</guid>
+      <description>Features are another way of describing software, and often get confused with requirements. A feature is a way of describing the software, and tends to be quite high-level. In this sense they are much like a business requirement, but without the focus on the business side of the need.
+Usually, a feature is tied to multiple requirements, i.e. a feature might be:
+The site will feature an online gift basket The business requirements derived from this might be:</description>
+    </item>
+    <item>
+      <title>Discovering Requirements</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/06-discovering-requirements/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/06-discovering-requirements/index.html</guid>
+      <description>A final challenge in discovering requirements is that your customers may not do a great job of telling them to you. We sometimes describe requirements as falling into one of three categories:
+Conscious Unconscious Undreamed The conscious requirements are those your customer is aware of; correspondingly, they’re the easiest to gather because the customer shares them.
+In contrast, unconscious requirements are those that are so deeply ingrained in the way the customer thinks and works that it doesn’t even occur to them that someone not involved in their work would not see it.</description>
+    </item>
+    <item>
+      <title>Requirement Gathering Techniques</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/07-techniques/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/07-techniques/index.html</guid>
+      <description>There are many techniques used to gather requirements, which vary in their formality and approach.
+Formal Stakeholder Methods Most requirement gathering begins with working with the stakeholders of the software project - those individuals who will be using or impacted by the software. It is important to remember to include all stakeholders - there is a common mistake made where the requirements gathers focus on the requirements identified by a select group of stakeholders, and ignore the others.</description>
+    </item>
+    <item>
+      <title>Conflicting Viewpoints</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/08-conflicting-viewpoints/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/08-conflicting-viewpoints/index.html</guid>
+      <description>Along with the risk of failing to address the needs of a group of stakeholders, another common challenge in requirements gathering is to understand that different parties in the development process have different ways of looking at the project and the requirements, which can cause issues down the road.
+Consider the Tree Swing cartoon , a classic humorous graphical metaphor for communication challenges arising from the different backgrounds of participants in a project:</description>
+    </item>
+    <item>
+      <title>Summary</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/09-summary/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/02-requirements-gathering/09-summary/index.html</guid>
+      <description>Requirements gathering sets the stage for the rest of the waterfall process, and is critical for understanding the needs an scope of the program you will be developing. This process begins with obtaining business requirements from the customer, and should include input from all stakeholders. This information is gathered through formal information-gathering processes borrowed from the social sciences.
+These business requirements should be broken down into functional requirements fine-grained enough to give the developers a clear picture of what the software will need to accomplish.</description>
+    </item>
+  </channel>
+</rss>

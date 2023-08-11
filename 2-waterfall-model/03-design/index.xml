@@ -1,0 +1,328 @@
+
+
+
+
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on K-State CIS 642/643 Textbook</title>
+    <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/index.html</link>
+    <description>Recent content in Design on K-State CIS 642/643 Textbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Aug 2018 10:53:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/01-introduction/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/01-introduction/index.html</guid>
+      <description>The second step in any kind of software development project should be to develop a plan of how the software should be built - ideally before any code is written. This is what design is all about. This is also the antithesis to cowboy coding which is likely how you learned to program. Working on a software system without a clear plan lies at the heart of many software project failures.</description>
+    </item>
+    <item>
+      <title>Design Document</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/02-design-document/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/02-design-document/index.html</guid>
+      <description>The outcome of the design phase is a design document. It provides a design, or specification, for a software system. You can think of it like an architect&amp;rsquo;s blueprints provide the details for construction tradesmen to build a building - it provides rich enough direction that skilled laborers can follow in carrying out their portion of the work. In the waterfall model, the design document fulfills a similar role - it allows the work of building a software system to be broken down and assigned to different programmers focusing on a specific aspect of the system.</description>
+    </item>
+    <item>
+      <title>Class Diagrams</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/03-class-diagrams/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/03-class-diagrams/index.html</guid>
+      <description>To put it succinctly, a UML Class Diagram represents the classes and the associations between the classes in an object-oriented program. Each class is represented by a separate box, and the associations between classes by arrows. The intent of the class diagram is to represent the complete structure (but not behavior) of an object-oriented program. This allows individual programmers to focus only a small part of the overall program - a class and the classes it has associations with.</description>
+    </item>
+    <item>
+      <title>Database Diagrams</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/04-database-diagrams/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/04-database-diagrams/index.html</guid>
+      <description>Most production applications today utilize structured data that is commonly stored using a specialized application known as a database. For traditional relational databases, a number of modeling approaches have been developed, including UML database diagrams, Entity Relationship diagrams, and Crows-foot notation. The purposes behind these modeling approaches is similar to that of the UML Class Diagram - a database model allows its readers to 1) quickly set up the database structure and 2) understand how to access the needed information (i.</description>
+    </item>
+    <item>
+      <title>UX Diagrams</title>
+      <link>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/05-ux-diagrams/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://ksu-cs-textbooks.github.io/cis642-643/2-waterfall-model/03-design/05-ux-diagrams/index.html</guid>
+      <description>A UX (for user experience, aka user interface) diagram visually presents what the user sees on the screen of a device running the program in a simplified form. These are also sometimes called wireframes (due to the diagram typically only showing text and outlines of controls) or bluelines (a term borrowed from architecture, where plans are drawn in blue pencil before begin printed in black and white). Typically, each screen of the user interface is drawn as a UX diagram, along with a description of the purpose of the controls on the page.</description>
+    </item>
+  </channel>
+</rss>
