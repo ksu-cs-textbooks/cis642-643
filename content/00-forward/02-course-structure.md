@@ -17,11 +17,12 @@ In addition to the software you will develop, we also have several additional co
 It is important to realize that this course is actually spread across _two semesters_: The first half is **CIS 642 - Software Engineering Project I** taught in the Fall Semester, and the second half is **CIS 643 - Software Engineering Project II** taught in the Spring.  You will continue your development efforts on your project across _both_ semesters.  If this does not fit into your plans, you should instead look at the other capstone course offered by the department, **CIS 598 - Computer Science Project**.
 {{% /notice %}}
 
+{{% notice tip %}}
+As a three-credit, senior-level course, you should be expecting to spend **nine hours a week** outside of class time working on this course. This much time is necessary to make adequate progress on your project.
+{{%/ notice %}}
+
 ## Lectures, Activities, and Quizzes
 The first few weeks of CIS 642 focus on learning both the history and processes of software engineering.  In covering this material, we will have a series of lectures, followed by discussions and activities implementing these processes during the normal class period.  These will lead into some group homework activities you'll be responsible for as well. Once we shift to the group projects, you'll be responsible for employing the practices, so you should endeavor to develop a strong understanding of them.
-
-## Guest Speakers
-Throughout both semesters, we will have guest speakers - primarily alumni working in industry - who will join us to talk about the software engineering practices employed in their companies.  You will be asked to reflect on these talks, and discuss what you have learned from them and how it ties into your own experiences and what you've been learning about software engineering.  It's also a great way to learn more about the industry, and how varied the approach to software development can be.
 
 ## Software Engineering Projects
 However, the bulk of the course will focus on building a software solution to support the needs of your customer.  We will engage in an Agile development process based on the SCRUM methodology, which consists of iteratively developing software in two-week _sprints_.  Before each sprint, you will meet with your customer and negotiate what are the most important aspects to focus on, and over the two weeks you will develop those features into your software, along with _documentation_ and _testing_.  At the end of the two weeks, you will present your prototype to your customer to solicit feedback, and begin planning your next sprint.  
@@ -37,4 +38,3 @@ Additionally, you will be asked to review each of your team members each of your
 
 ### Presentations
 You will also be charged with presenting your work to a broader audience - in the form of final presentations at the end of each course, as well as presenting to the general public at Open House in the Spring for CIS 643.  You will be evaluated for your presentation skills for the various audiences involved (technically sophisticated peers at the end-of-semester and general audiences at Open House).
-
