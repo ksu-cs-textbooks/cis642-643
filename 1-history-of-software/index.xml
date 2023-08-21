@@ -330,7 +330,7 @@ The major cause of the software crisis is that the machines have become several 
       <link>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/05-evolution-of-programming/index.html</link>
       <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/05-evolution-of-programming/index.html</guid>
-      <description>The poor programming practices of cowboy coding and the growing numbers of unskilled programmers did not go unremarked. In fact, many of the programming language features you are familiar with were developed explictly to counter these trends - i.e. to &amp;lsquo;idiot-proof&amp;rsquo; programming.
+      <description>The poor programming practices of cowboy coding and the growing numbers of unskilled programmers did not go unremarked. In fact, many of the programming language features you are familiar with were developed explicitly to counter these trends - i.e. to &amp;lsquo;idiot-proof&amp;rsquo; programming.
 Consider all the control-flow constructs you know: the for loop, the while loop, the if/else statement, the switch statement, the ternary operator, etc. None of these existed in early programming languages.</description>
     </item>
     <item>
@@ -339,7 +339,7 @@ Consider all the control-flow constructs you know: the for loop, the while loop,
       <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
       <guid>https://ksu-cs-textbooks.github.io/cis642-643/1-history-of-software/06-project-management/index.html</guid>
       <description>Beyond the increasing demand for programs, the large-scale recruitment of unprepared programmers, and the lack of good development tools, another factor marked many failed projects, mismanagement.
-Software was a new kind of product, and nobody had a really strong grasp of what would be invovled in developing it. The Steve Jobs quote this chapter opened with, &amp;ldquo;When we started off we didn&amp;rsquo;t know how to spell software&amp;rdquo; is telling. Similarly, Dick Battin, one of the engineers behind the Apollo Guidance system admitted &amp;ldquo;&amp;hellip; we had no idea how we were going to do this job, other than to try [to] model it after the Mars probe.</description>
+Software was a new kind of product, and nobody had a really strong grasp of what would be involved in developing it. The Steve Jobs quote this chapter opened with, &amp;ldquo;When we started off we didn&amp;rsquo;t know how to spell software&amp;rdquo; is telling. Similarly, Dick Battin, one of the engineers behind the Apollo Guidance system admitted &amp;ldquo;&amp;hellip; we had no idea how we were going to do this job, other than to try [to] model it after the Mars probe.</description>
     </item>
     <item>
       <title>The Software Crisis</title>
