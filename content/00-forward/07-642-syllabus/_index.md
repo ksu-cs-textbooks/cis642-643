@@ -143,13 +143,12 @@ Late work is considered _unacceptable_, and as such will result in no points ear
 For your sprints, remember that in your sprint planning, you are setting your commitments by what you add to your sprint backlog - don't overcommit!  At the same time, you need to be making enough progress to keep your customer happy _while ensuring_ your software is of sufficient quality and adequately documented and tested.
 
 ## Dress Policy
-As indicated in the customer relations section, students are expected to wear at a minimum business professional attire for the bi-weekly review and planning meetings with their customers. For other meetings with customers. Career and Employment Services publishes guides to professional and casual attire for men and women on their site <a href="https://www.k-state.edu/careercenter/students/tell_your_story/attire/dresstoimpress.html">(https://www.k-state.edu/careercenter/students/tell_your_story/attire/dresstoimpress.html)</a>. These will be used as the grading rubric within this area, so be sure to familiarize yourself with the expectations! 
+As indicated in the customer relations section, students are expected to wear at a minimum business professional attire for the bi-weekly review and planning meetings with their customers. For other meetings with customers. Career and Employment Services publishes guides to professional and casual attire for men and women on their site <a href="https://www.k-state.edu/careercenter/students/apply_interview/attire/dresstoimpress.html">(https://www.k-state.edu/careercenter/students/apply_interview/attire/dresstoimpress.html)</a>. These will be used as the grading rubric within this area, so be sure to familiarize yourself with the expectations! 
 
 For obtaining inexpensive business wear options, there are many opportunities
 available to you:
 * CES offers the career closet every Monday-Friday, 8am - 5pm at the Berney Family Welcome center to find gently-used professional wear.  Students can typically take up to three articles. Monetary donations will go to the Manhattan Emergency Shelter.
 * Several thrift stores in Manhattan carry business professional and casual attire at affordable prices (listed by proximity to campus):
-  * Salvation Army, 310 Poyntz Avenue
   * Goodwill, 421 E. Poyntz Avenue
   * Grand Old Trunk, 1304 Pillsbury Drive
 
