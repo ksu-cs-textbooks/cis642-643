@@ -20,10 +20,10 @@ This textbook was authored for the **CIS 642/643 - Software Engineering Project 
 * **Office:** DUE 2216
 * **Phone:** (785)483-9264 (Call/Text)
 * **Website:** [https://nathanhbean.com](https://nathanhbean.com)
-* **Office Hours:** M 1:00-3:30
+* **Office Hours:** M 2:00-3:30
 * **Virtual Office Hours:** By appointment via [Zoom](ksu.zoom.us) or MS Teams.  Schedule a meeting via email or MS Teams Direct Message.
-* **Teaching Assistant**: Akhil Reddy Dudhipala (akhildudhipala AT ksu DOT edu)
-* **Office Hours:** TBA
+* **Teaching Assistant**: Eric Faust (efaust AT ksu DOT edu)
+* **Office Hours:** 
 
 ### Preferred Methods of Communication:
 * **Chat:** Quick questions via MS Teams are the preferred means of communication.   Questions whose answers may benefit the class I would encourage you to post in the course Team, as this keeps a public history your classmates can review. More personal questions should be direct messaged to me.
