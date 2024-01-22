@@ -16,7 +16,7 @@ This textbook was authored for the **CIS 642/643 - Software Engineering Project 
 * **Office:** DUE 2216
 * **Phone:** (785)483-9264 (Call/Text)
 * **Website:** [https://nathanhbean.com](https://nathanhbean.com)
-* **Office Hours:** MW 10:30-11:30
+* **Office Hours:** Wednesday 1:30pm-3:30pm
 * **Virtual Office Hours:** By appointment via [Zoom](ksu.zoom.us) or MS Teams.  Schedule a meeting via email or MS Teams Direct Message.
 
 ### Preferred Methods of Communication:
