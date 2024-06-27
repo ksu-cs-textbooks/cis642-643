@@ -10,7 +10,7 @@ You may be wondering, if this model of software engineering was so widely adopte
 
 The ability to divide labor amongst the different phases was a boon from a business perspective, but it came with challenges.  One of the largest is _communication_.  It was necessary for each different team to convey complex ideas to the next group in the chain, and this did not always go smoothly. The cartoon below is based on the _tree swing metaphor_, which makes the point that each specialization has its own way of looking at and describing a project. If the different teams can't converge on a shared reality, problems are sure to ensue.  
 
-![The Tree Swing Metaphor](/images/2.3.1.png)
+![The Tree Swing Metaphor](/images/2.1.7.1.png)
 
 A second problem with the division of labor cropped up as it became more and more difficult to find and hire qualified programmers.  If you consider the different phases, the only phase you really _must_ have experienced programmers is in creating the design.  As long as your _implementers_ could follow the details of the design and built their little piece following the specification, the software could be created.  So the inexperienced programmers were often shifted to implementation jobs, and testing was instead handed off to much cheaper non-programmers.  Similarily, the requirements gathers did not necessarily need to be programmers, and social scientists, advertising, and business majors all had the skills to effectively talk with customers. And they were also cheaper.  Finally, the _maintenance_ phase became a convenient dumping ground for those programmers who were ineffective at development jobs - i.e. those who couldn't design or follow a plan.
 

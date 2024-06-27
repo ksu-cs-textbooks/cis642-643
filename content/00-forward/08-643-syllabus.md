@@ -17,7 +17,7 @@ This textbook was authored for the **CIS 642/643 - Software Engineering Project 
 * **Phone:** (785)483-9264 (Call/Text)
 * **Website:** [https://nathanhbean.com](https://nathanhbean.com)
 * **Office Hours:** Wednesday 1:30pm-3:30pm
-* **Virtual Office Hours:** By appointment via [Zoom](ksu.zoom.us) or MS Teams.  Schedule a meeting via email or MS Teams Direct Message.
+* **Virtual Office Hours:** By appointment via [Zoom](https://ksu.zoom.us) or MS Teams.  Schedule a meeting via email or MS Teams Direct Message.
 
 ### Preferred Methods of Communication:
 * **Chat:** Quick questions via Discord is the preferred means of communication.   Questions whose answers may benefit the class I would encourage you to post in the course channel, as this keeps a public history your classmates can review. More personal questions should be direct messaged to me.
@@ -143,4 +143,4 @@ The details in this document are not set in stone – there may need to be adjus
 ## Copyright Notice
 ©2021 The materials in this online course fall under the protection of all intellectual property, copyright and trademark laws of the U.S. The digital materials included here come with the legal permissions and releases of the copyright holders. These course materials should be used for educational purposes only; the contents should not be distributed electronically or otherwise beyond the confines of this online course. The URLs listed here do not suggest endorsement of either the site owners or the contents found at the sites. Likewise, mentioned brands (products and services) do not suggest endorsement. Students own copyright to what they create.
 
-Original content in the course textbook at [{{< ref "/" >}}]({{< ref "/" >}}) is licensed under a Creative Commons BY-SA license by Nathan Bean unless otherwise stated.
+Original content in the course textbook at [{{% ref "/"  %}}]({{% ref "/"  %}}) is licensed under a Creative Commons BY-SA license by Nathan Bean unless otherwise stated.
