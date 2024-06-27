@@ -3,296 +3,297 @@
 
 
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
 		
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CIS 642 Schedule on K-State CIS 642/643 Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/09-642-schedule/index.html</link>
-    <description>Recent content in CIS 642 Schedule on K-State CIS 642/643 Textbook</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>CIS 642 Schedule :: K-State CIS 642/643 Textbook</title>
+    <link>https://textbooks.cs.ksu.edu/cis642-643/00-forward/09-642-schedule/</link>
+    <description> Week Day Before Class In Class 1 1 Read the syllabus and complete the quiz Course expectations, Introductions, and Team Formation Survey 2 Read the History of Software Development, claim your software failure Present on your Software Failure 3 Read about the Waterfall Model of Software Engineering Requirements Gathering Exercise 2 4 Review UML, Design Patterns Software Design Exercise 5 Review documentation and testing Development Exercise 6 Read verification and maintenance sections Maintenance exercise 3 7 Read about Agile development 8 9 4 Sprint 1 5 6 Sprint 2 7 8 Sprint 3 9 10 Sprint 4 11 12 Sprint 5 13 14 Sprint 6 15 16 Final Presentations </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Aug 2018 10:53:26 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cis642-643/00-forward/09-642-schedule/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://textbooks.cs.ksu.edu/cis642-643/00-forward/09-642-schedule/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

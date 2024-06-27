@@ -3,341 +3,338 @@
 
 
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
 		
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Assignment Descriptions on K-State CIS 642/643 Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cis642-643/a-assignments/index.html</link>
-    <description>Recent content in Assignment Descriptions on K-State CIS 642/643 Textbook</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Assignment Descriptions :: K-State CIS 642/643 Textbook</title>
+    <link>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/</link>
+    <description>What exactly are we doing?</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Aug 2018 10:53:05 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cis642-643/a-assignments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 20:12:30 -0600</lastBuildDate>
+    <atom:link href="https://textbooks.cs.ksu.edu/cis642-643/a-assignments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>https://ksu-cs-textbooks.github.io/cis642-643/a-assignments/01-introduction/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/01-introduction/</link>
       <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cis642-643/a-assignments/01-introduction/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/01-introduction/</guid>
       <description>This appendix describes each of the activities you will be responsible for in developing your software engineering project.</description>
     </item>
     <item>
       <title>Task Board</title>
-      <link>https://ksu-cs-textbooks.github.io/cis642-643/a-assignments/02-task-board/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/02-task-board/</link>
       <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cis642-643/a-assignments/02-task-board/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/02-task-board/</guid>
       <description>An important tool in the Agile development toolkit is the Task (or Kanban) board. This board provides quick visual feedback on what tasks need to be done over the sprint and how they are progressing. Throughout the sprint, tasks are taken from the sprint backlog by a team member, the corresponding programming, testing, and documentation done, moving the task progressively across the board. Traditionally, these boards are bulletin boards and the tasks are represented by index cards pinned to them:</description>
     </item>
     <item>
       <title>Daily Stand Up</title>
-      <link>https://ksu-cs-textbooks.github.io/cis642-643/a-assignments/03-daily-stand-up/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/03-daily-stand-up/</link>
       <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cis642-643/a-assignments/03-daily-stand-up/index.html</guid>
-      <description>The daily stand-up is a brief meeting where each team member presents what they are doing. It&amp;rsquo;s a kind of check-in to make sure the whole team knows what its members are working on. The name &amp;ldquo;stand up&amp;rdquo; comes from the common practice of holding this meeting with everyone standing - so that they want to finish the meeting quicker.
-Often the stand-up consists of each team member answering three questions:</description>
+      <guid>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/03-daily-stand-up/</guid>
+      <description>The daily stand-up is a brief meeting where each team member presents what they are doing. It’s a kind of check-in to make sure the whole team knows what its members are working on. The name “stand up” comes from the common practice of holding this meeting with everyone standing - so that they want to finish the meeting quicker.&#xA;Often the stand-up consists of each team member answering three questions:</description>
     </item>
     <item>
       <title>Sprint Meetings</title>
-      <link>https://ksu-cs-textbooks.github.io/cis642-643/a-assignments/04-sprint-meeting/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/04-sprint-meeting/</link>
       <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cis642-643/a-assignments/04-sprint-meeting/index.html</guid>
-      <description>Each sprint starts with a Sprint Planning Meeting, and ends with Sprint Review and Sprint Retrospective meetings. These three meetings Let&amp;rsquo;s examine the purpose of each in more detail:
-Sprint Planning Meeting The sprint planning meeting includes both the development team and their customers. In this meeting, the tasks to work on for the sprint are decided upon, through a mutual negotiation process. Essentially, the customer shares what is most important to accomplish from their perspective, while the team advocates for what is necessary from their end.</description>
+      <guid>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/04-sprint-meeting/</guid>
+      <description>Each sprint starts with a Sprint Planning Meeting, and ends with Sprint Review and Sprint Retrospective meetings. These three meetings Let’s examine the purpose of each in more detail:&#xA;Sprint Planning Meeting The sprint planning meeting includes both the development team and their customers. In this meeting, the tasks to work on for the sprint are decided upon, through a mutual negotiation process. Essentially, the customer shares what is most important to accomplish from their perspective, while the team advocates for what is necessary from their end.</description>
     </item>
     <item>
       <title>Sprint Release</title>
-      <link>https://ksu-cs-textbooks.github.io/cis642-643/a-assignments/05-sprint-release/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/05-sprint-release/</link>
       <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cis642-643/a-assignments/05-sprint-release/index.html</guid>
-      <description>At the end of each sprint, you should have a completed prototype of your software, implementing all the features you committed to during the sprint. Moreover, those features should be documented and tested (preferably by automated testing tools with full unit and integration tests).
-You will need to:
-Commit all your changes to your repository Create a release tag for the sprint Upload your release URL. In SCRUM, a sprint either succeeds or fails.</description>
+      <guid>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/05-sprint-release/</guid>
+      <description>At the end of each sprint, you should have a completed prototype of your software, implementing all the features you committed to during the sprint. Moreover, those features should be documented and tested (preferably by automated testing tools with full unit and integration tests).&#xA;You will need to:&#xA;Commit all your changes to your repository Create a release tag for the sprint Upload your release URL. In SCRUM, a sprint either succeeds or fails.</description>
     </item>
     <item>
       <title>Specification Document</title>
-      <link>https://ksu-cs-textbooks.github.io/cis642-643/a-assignments/06-specification-document/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/06-specification-document/</link>
       <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
-      <guid>https://ksu-cs-textbooks.github.io/cis642-643/a-assignments/06-specification-document/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/06-specification-document/</guid>
       <description>A specification document is one that lays out the purpose and design of your project. It is a common form of documentation to accompany the development of a piece of software. In a waterfall environment, it may be written early in the process and serve as the basis for the design. In an Agile environment, it will also be written early in the process, but treated more as a living document, i.</description>
     </item>
   </channel>

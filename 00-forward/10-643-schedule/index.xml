@@ -3,296 +3,297 @@
 
 
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
+  
 	
-	
 		
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
+  
 	
-	
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
-		
+	  
 
-	
+  
 	
 		
 		
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CIS 643 Schedule on K-State CIS 642/643 Textbook</title>
-    <link>https://ksu-cs-textbooks.github.io/cis642-643/00-forward/10-643-schedule/index.html</link>
-    <description>Recent content in CIS 643 Schedule on K-State CIS 642/643 Textbook</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>CIS 643 Schedule :: K-State CIS 642/643 Textbook</title>
+    <link>https://textbooks.cs.ksu.edu/cis642-643/00-forward/10-643-schedule/</link>
+    <description>This schedule represents the “idealized” schedule for the semester. For specific dates, refer to the course page on Canvas.&#xA;Week Sprint Activity 1 — Expectations for the Semester Specifications Document Sprint 7 planning meeting 2 7 Sprint 7 planning meeting (alternate time) Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor 3 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor Sprint 7 Review Meeting Sprint 7 Release Tag Due Sprint 7 Peer Reviews Due Sprint 8 Planning Meeting 4 8 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor 5 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor Sprint 8 Review Meeting Sprint 8 Release Tag Due Sprint 8 Peer Reviews Due Sprint 9 Planning Meeting 6 9 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor 7 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor Sprint 9 Review Meeting Sprint 9 Release Tag Due Sprint 9 Peer Reviews Due Sprint 10 Planning Meeting 8 10 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor 9 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor Sprint 10 Review Meeting Sprint 10 Release Tag Due Sprint 10 Peer Reviews Due Sprint 11 Planning Meeting 10 11 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor 11 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor Sprint 11 Review Meeting Sprint 11 Release Tag Due Sprint 11 Peer Reviews Due Sprint 12 Planning Meeting 12 12 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor 13 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor Sprint 12 Review Meeting Sprint 12 Release Tag Due Sprint 12 Peer Reviews Due Sprint 13 Planning Meeting 14 13 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor 15 Continued Development Daily Stand-ups with Team Weekly Check-in with Instructor Sprint 13 Review Meeting Sprint 13 Release Tag Due Sprint 13 Peer Reviews Due 16 — Final Presentations </description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Aug 2018 10:53:26 -0500</lastBuildDate><atom:link href="https://ksu-cs-textbooks.github.io/cis642-643/00-forward/10-643-schedule/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://textbooks.cs.ksu.edu/cis642-643/00-forward/10-643-schedule/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
