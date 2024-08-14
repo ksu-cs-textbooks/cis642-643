@@ -12,7 +12,7 @@ This textbook was authored for the **CIS 642/643 - Software Engineering Project 
 {{% /notice %}}
 
 
-## CIS 642 - Software Engineering Project I (Fall 2023)
+## CIS 642 - Software Engineering Project I (Fall 2024)
 
 ### Instructor Contact Information
 * **Class Times & Location**: MWF 9:30am-11:20am DUF 1092
