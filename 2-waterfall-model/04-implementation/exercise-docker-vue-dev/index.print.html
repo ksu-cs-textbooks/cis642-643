@@ -1,0 +1,601 @@
+
+
+
+
+
+  
+	
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+		
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+		
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+		
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+		
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+		
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+		
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.128.0">
+    <meta name="generator" content="Relearn 6.0.0">
+    <meta name="robots" content="noindex, nofollow, noarchive, noimageindex">
+    <meta name="description" content="This project will contain the following features:
+Dev Container Base Image VS Code Documentation Node.js and Express backend Vue 3 frontend MySQL and phpMyAdmin service containers Prerequisites Docker Desktop VS Code Dev Containers Extension Docker Extension Step 1 - Define the Dev Container Create a new project folder and open it in VS Code Use the command palette to add dev container files to the project (Documentation) Customize dev container files: devcontainer.">
+    <meta name="author" content="Nathan Bean">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Exercise: Docker Vue Dev Container :: K-State CIS 642/643 Textbook">
+    <meta name="twitter:description" content="This project will contain the following features:
+Dev Container Base Image VS Code Documentation Node.js and Express backend Vue 3 frontend MySQL and phpMyAdmin service containers Prerequisites Docker Desktop VS Code Dev Containers Extension Docker Extension Step 1 - Define the Dev Container Create a new project folder and open it in VS Code Use the command palette to add dev container files to the project (Documentation) Customize dev container files: devcontainer.">
+    <meta property="og:url" content="https://textbooks.cs.ksu.edu/cis642-643/2-waterfall-model/04-implementation/exercise-docker-vue-dev/">
+    <meta property="og:site_name" content="K-State CIS 642/643 Textbook">
+    <meta property="og:title" content="Exercise: Docker Vue Dev Container :: K-State CIS 642/643 Textbook">
+    <meta property="og:description" content="This project will contain the following features:
+Dev Container Base Image VS Code Documentation Node.js and Express backend Vue 3 frontend MySQL and phpMyAdmin service containers Prerequisites Docker Desktop VS Code Dev Containers Extension Docker Extension Step 1 - Define the Dev Container Create a new project folder and open it in VS Code Use the command palette to add dev container files to the project (Documentation) Customize dev container files: devcontainer.">
+    <meta property="og:locale" content="en-us">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="The Waterfall Model">
+    <meta property="article:modified_time" content="2024-09-04T09:27:11-05:00">
+    <meta itemprop="name" content="Exercise: Docker Vue Dev Container :: K-State CIS 642/643 Textbook">
+    <meta itemprop="description" content="This project will contain the following features:
+Dev Container Base Image VS Code Documentation Node.js and Express backend Vue 3 frontend MySQL and phpMyAdmin service containers Prerequisites Docker Desktop VS Code Dev Containers Extension Docker Extension Step 1 - Define the Dev Container Create a new project folder and open it in VS Code Use the command palette to add dev container files to the project (Documentation) Customize dev container files: devcontainer.">
+    <meta itemprop="dateModified" content="2024-09-04T09:27:11-05:00">
+    <meta itemprop="wordCount" content="930">
+    <title>Exercise: Docker Vue Dev Container :: K-State CIS 642/643 Textbook</title>
+    <link href="/cis642-643/css/fontawesome-all.min.css?1725460735" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/cis642-643/css/fontawesome-all.min.css?1725460735" rel="stylesheet"></noscript>
+    <link href="/cis642-643/css/nucleus.css?1725460735" rel="stylesheet">
+    <link href="/cis642-643/css/auto-complete.css?1725460735" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/cis642-643/css/auto-complete.css?1725460735" rel="stylesheet"></noscript>
+    <link href="/cis642-643/css/perfect-scrollbar.min.css?1725460735" rel="stylesheet">
+    <link href="/cis642-643/css/fonts.css?1725460735" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/cis642-643/css/fonts.css?1725460735" rel="stylesheet"></noscript>
+    <link href="/cis642-643/css/theme.css?1725460735" rel="stylesheet">
+    <link href="/cis642-643/css/theme-auto.css?1725460735" rel="stylesheet" id="R-variant-style">
+    <link href="/cis642-643/css/chroma-auto.css?1725460735" rel="stylesheet" id="R-variant-chroma-style">
+    <link href="/cis642-643/css/variant.css?1725460735" rel="stylesheet">
+    <link href="/cis642-643/css/print.css?1725460735" rel="stylesheet" media="print">
+    <link href="/cis642-643/css/format-print.css?1725460735" rel="stylesheet">
+    <script src="/cis642-643/js/variant.js?1725460735"></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.relBasePath='..\/..\/..';
+      window.relearn.relBaseUri='..\/..\/..\/..';
+      window.relearn.absBaseUri='https:\/\/textbooks.cs.ksu.edu\/cis642-643';
+      window.index_js_url="/cis642-643/index.search.js";
+      // variant stuff
+      window.variants && variants.init( [ 'auto', 'light-theme', 'dark-theme' ] );
+      // translations
+      window.T_Copy_to_clipboard = `Copy to clipboard`;
+      window.T_Copied_to_clipboard = `Copied to clipboard!`;
+      window.T_Copy_link_to_clipboard = `Copy link to clipboard`;
+      window.T_Link_copied_to_clipboard = `Copied link to clipboard!`;
+      window.T_Reset_view = `Reset view`;
+      window.T_View_reset = `View reset!`;
+      window.T_No_results_found = `No results found for "{0}"`;
+      window.T_N_results_found = `{1} results found for "{0}"`;
+    </script>
+    
+    <link href="/cis642-643/css/custom.css?1725460735" rel="stylesheet">
+  </head>
+  <body class="mobile-support print disableInlineCopyToClipboard" data-url="/cis642-643/2-waterfall-model/04-implementation/exercise-docker-vue-dev/">
+    <div id="R-body" class="default-animation">
+      <div id="R-body-overlay"></div>
+      <nav id="R-topbar">
+        <div class="topbar-wrapper">
+          <div class="topbar-sidebar-divider"></div>
+          <div class="topbar-area topbar-area-start" data-area="start">
+            <div class="topbar-button topbar-button-sidebar" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide"><button class="topbar-control" onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button>
+            </div>
+          </div>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="/cis642-643/2-waterfall-model/"><span itemprop="name">The Waterfall Model</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="/cis642-643/2-waterfall-model/04-implementation/"><span itemprop="name">Implementation</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">Exercise: Docker Vue Dev Container</span><meta itemprop="position" content="3"></li>
+          </ol>
+          <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/cis642-643/2-waterfall-model/04-implementation/01-introduction/" title="Introduction (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/cis642-643/3-agile-models/" title="Agile Models (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div id="R-main-overlay"></div>
+      <main id="R-body-inner" class="highlightable default" tabindex="-1">
+        <div class="flex-block-wrapper">
+          <article class="default">
+            <header class="headline">
+            </header>
+
+<h1 id="exercise-docker-vue-dev-container">Exercise: Docker Vue Dev Container</h1>
+
+<p><a href="https://www.youtube.com/watch?v=E_B-dxVSYec" rel="external" target="_blank"><a href="#R-image-0b299555fdb92cb38a9d4288efd079de" class="lightbox-link"><img alt="YouTube Explainer" class="border lazy lightbox noshadow figure-image" loading="lazy" src="https://img.youtube.com/vi/E_B-dxVSYec/0.jpg" style=" height: auto; width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-0b299555fdb92cb38a9d4288efd079de"><img alt="YouTube Explainer" class="border lazy lightbox noshadow lightbox-image" loading="lazy" src="https://img.youtube.com/vi/E_B-dxVSYec/0.jpg"></a></a></p>
+<p>This project will contain the following features:</p>
+<ul>
+<li><a href="https://containers.dev/" rel="external" target="_blank">Dev Container</a>
+<ul>
+<li><a href="https://github.com/devcontainers/images/tree/main/src/javascript-node" rel="external" target="_blank">Base Image</a></li>
+<li><a href="https://code.visualstudio.com/docs/devcontainers/containers" rel="external" target="_blank">VS Code Documentation</a></li>
+</ul>
+</li>
+<li><a href="https://nodejs.org/en" rel="external" target="_blank">Node.js</a> and <a href="https://expressjs.com/" rel="external" target="_blank">Express</a> backend</li>
+<li><a href="https://vuejs.org/" rel="external" target="_blank">Vue 3</a> frontend</li>
+<li><a href="https://hub.docker.com/_/mysql" rel="external" target="_blank">MySQL</a> and <a href="https://hub.docker.com/_/phpmyadmin" rel="external" target="_blank">phpMyAdmin</a> service containers</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li><a href="https://www.docker.com/products/docker-desktop/" rel="external" target="_blank">Docker Desktop</a></li>
+<li><a href="https://code.visualstudio.com/" rel="external" target="_blank">VS Code</a>
+<ul>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers" rel="external" target="_blank">Dev Containers Extension</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker" rel="external" target="_blank">Docker Extension</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="step-1---define-the-dev-container">Step 1 - Define the Dev Container</h2>
+<ol>
+<li>Create a new project folder and open it in VS Code</li>
+<li>Use the command palette to add dev container files to the project (<a href="https://code.visualstudio.com/docs/devcontainers/create-dev-container" rel="external" target="_blank">Documentation</a>)</li>
+<li>Customize dev container files:</li>
+</ol>
+<h3 id="devcontainerjson"><code>devcontainer.json</code></h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-json" data-lang="json"><span class="line"><span class="cl"><span class="c1">// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+</span></span></span><span class="line"><span class="cl"><span class="c1">// README at: https://github.com/devcontainers/templates/tree/main/src/javascript-node
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">	<span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;Node.js, Vue 3 &amp; MySQL&#34;</span><span class="p">,</span>  <span class="c1">//
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="c1">// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="c1">// &#34;image&#34;: &#34;mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm&#34;
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="nt">&#34;dockerComposeFile&#34;</span><span class="p">:</span> <span class="s2">&#34;docker-compose.yml&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">	<span class="nt">&#34;service&#34;</span><span class="p">:</span> <span class="s2">&#34;app&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">	<span class="nt">&#34;workspaceFolder&#34;</span><span class="p">:</span> <span class="s2">&#34;/workspaces/${localWorkspaceFolderBasename}&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="c1">// Features to add to the dev container. More info: https://containers.dev/features.
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="nt">&#34;features&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;ghcr.io/devcontainers-contrib/features/vue-cli:2&#34;</span><span class="p">:</span> <span class="p">{}</span>
+</span></span><span class="line"><span class="cl">	<span class="p">},</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="c1">// Use &#39;forwardPorts&#39; to make a list of ports inside the container available locally.
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="nt">&#34;forwardPorts&#34;</span><span class="p">:</span> <span class="p">[</span><span class="mi">3001</span><span class="p">],</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="c1">// Use &#39;postCreateCommand&#39; to run commands after the container is created.
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="nt">&#34;postCreateCommand&#34;</span><span class="p">:</span> <span class="s2">&#34;cd server &amp;&amp; npm install &amp;&amp; cd ../client &amp;&amp; npm install&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="c1">// Configure tool-specific properties.
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="nt">&#34;customizations&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;vscode&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;extensions&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">				<span class="s2">&#34;Vue.volar&#34;</span>
+</span></span><span class="line"><span class="cl">			<span class="p">]</span>
+</span></span><span class="line"><span class="cl">		<span class="p">}</span>
+</span></span><span class="line"><span class="cl">	<span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="c1">// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="c1">// &#34;remoteUser&#34;: &#34;root&#34;
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="p">}</span></span></span></code></pre></div><p>This can be easily customized to support different frontends or backends by adding different features or customizations. Also note the forwarded port <code>3001</code> can be changed.</p>
+<h3 id="docker-composeyml"><code>docker-compose.yml</code></h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yml" data-lang="yml"><span class="line"><span class="cl"><span class="nt">version</span><span class="p">:</span><span class="w"> </span><span class="s1">&#39;3.8&#39;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">services</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">app</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">build</span><span class="p">:</span><span class="w"> 
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">context</span><span class="p">:</span><span class="w"> </span><span class="l">.</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">dockerfile</span><span class="p">:</span><span class="w"> </span><span class="l">Dockerfile</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">volumes</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span>- <span class="l">../..:/workspaces:cached</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="c"># Overrides default command so things don&#39;t shut down after the process ends.</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">command</span><span class="p">:</span><span class="w"> </span><span class="l">sleep infinity</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="c"># Additional Services</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">mysqlnvd</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">image</span><span class="p">:</span><span class="w"> </span><span class="l">mysql:lts</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">container_name</span><span class="p">:</span><span class="w"> </span><span class="l">mysqlnvd</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">environment</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">MYSQL_HOST</span><span class="p">:</span><span class="w"> </span><span class="l">mysqlnvd</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">MYSQL_DATABASE</span><span class="p">:</span><span class="w"> </span><span class="l">database</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">MYSQL_USER</span><span class="p">:</span><span class="w"> </span><span class="l">user</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">MYSQL_PASSWORD</span><span class="p">:</span><span class="w"> </span><span class="l">password</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">MYSQL_RANDOM_ROOT_PASSWORD</span><span class="p">:</span><span class="w"> </span><span class="l">fact</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">phpmyadminnvd</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">image</span><span class="p">:</span><span class="w"> </span><span class="l">phpmyadmin:latest</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">container_name</span><span class="p">:</span><span class="w"> </span><span class="l">phpmyadminnvd</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">environment</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">PMA_ARBITRARY</span><span class="p">:</span><span class="w"> </span><span class="m">1</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">ports</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span>- <span class="s1">&#39;8080:80&#39;</span></span></span></code></pre></div><p>Likewise, the additional services defined in this file can be updated to include things like Mongo, PostgreSQL, or other Docker containers. If your system has a reverse proxy such as <a href="https://traefik.io/traefik/" rel="external" target="_blank">Traefik</a>, you can add the labels here to enable external routing.</p>
+<h3 id="dockerfile"><code>Dockerfile</code></h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-dockerfile" data-lang="dockerfile"><span class="line"><span class="cl"><span class="k">FROM</span><span class="s"> mcr.microsoft.com/devcontainers/javascript-node:22-bookworm</span></span></span></code></pre></div><p>If addtional items should be included in the container they can be added here. For example, I typically install <code>zsh</code> (my preferred terminal), <code>gnupg</code> (to sign commits), <code>npm-check-updates</code> (to easily update <code>npm</code> packages) and <code>better-commits</code> (to create more useful commit messages).</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-dockerfile" data-lang="dockerfile"><span class="line"><span class="cl"><span class="k">FROM</span><span class="s"> mcr.microsoft.com/devcontainers/javascript-node:22-bookworm</span><span class="err">
+</span></span></span><span class="line"><span class="cl"><span class="err">
+</span></span></span><span class="line"><span class="cl"><span class="err"></span><span class="c"># [Optional] Uncomment this section to install additional OS packages.</span><span class="err">
+</span></span></span><span class="line"><span class="cl"><span class="err"></span><span class="k">RUN</span> apt-get update <span class="o">&amp;&amp;</span> <span class="nb">export</span> <span class="nv">DEBIAN_FRONTEND</span><span class="o">=</span>noninteractive <span class="se">\
+</span></span></span><span class="line"><span class="cl"><span class="se"></span>    <span class="o">&amp;&amp;</span> apt-get -y install --no-install-recommends gnupg2 zsh<span class="err">
+</span></span></span><span class="line"><span class="cl"><span class="err">
+</span></span></span><span class="line"><span class="cl"><span class="err"></span><span class="c"># [Optional] Install global node modules</span><span class="err">
+</span></span></span><span class="line"><span class="cl"><span class="err"></span><span class="k">RUN</span> su node -c <span class="s2">&#34;npm install -g npm-check-updates better-commits&#34;</span></span></span></code></pre></div><h2 id="step-2---load-the-dev-container">Step 2 - Load the Dev Container</h2>
+<ol>
+<li>In VS Code, use the command palette to reopen the folder in a dev container. The first time this action is performed, it may take several minutes to download base images and build the container. This will be much faster in the future.</li>
+<li>You will get an error stating that the last step failed the first time - this is because we have not created the <code>server</code> and <code>client</code> projects yet, so running <code>npm install</code> in those folders will not work.</li>
+</ol>
+<h2 id="step-3---create-the-server-and-client-projects">Step 3 - Create the <code>server</code> and <code>client</code> Projects</h2>
+<ol>
+<li>Use the <a href="https://expressjs.com/en/starter/generator.html" rel="external" target="_blank">Express Generator</a> to create an Express project in the <code>server</code> folder.</li>
+<li>I typically install <a href="https://www.npmjs.com/package/nodemon" rel="external" target="_blank"><code>nodemon</code></a> and configure a <code>dev</code> command in the <code>package.json</code> file to use <code>nodemon</code> with this setup.</li>
+<li>By default the Express Generator does not include a <code>.gitignore</code> file in the <code>server</code> folder. I recommend using <a href="https://github.com/github/gitignore/blob/main/Node.gitignore" rel="external" target="_blank">this one</a> as a starter.</li>
+<li>Use the <a href="https://vuejs.org/guide/quick-start" rel="external" target="_blank"><code>create-vue</code></a> scaffolding tool to create a Vue 3 project in the <code>client</code> folder.</li>
+<li>If you plan on using another frontend, such as React or Angular you can easily substitute it at this point.</li>
+<li>By default, <code>vite</code> only attaches to internal ports and uses a random port. I recommend customizing the <code>dev</code> script in the <code>package.json</code> file to match include explicit host and port entries: <code>&quot;dev&quot;: &quot;vite --host 0.0.0.0 --port 3001&quot;</code></li>
+<li>For a <code>vite</code> project, customize the <code>vite.config.js</code> to proxy API connections to the backend as desired. See that file in this repo for an example.</li>
+<li>Similar configuration can be done for other frontend frameworks</li>
+</ol>
+<h2 id="step-4---create-vs-code-tasks">Step 4 - Create VS Code Tasks</h2>
+<ol>
+<li>Create the file <code>.vscode/tasks.json</code> with the following content:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-json" data-lang="json"><span class="line"><span class="cl"><span class="c1">// .vscode/tasks.json
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">// See https://go.microsoft.com/fwlink/?LinkId=733558
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="c1">// for the documentation about the tasks.json format
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="s2">&#34;2.0.0&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="nt">&#34;tasks&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;label&#34;</span><span class="p">:</span> <span class="s2">&#34;Watch Server&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;shell&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;command&#34;</span><span class="p">:</span> <span class="s2">&#34;cd server &amp;&amp; npm run dev&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;group&#34;</span><span class="p">:</span> <span class="s2">&#34;build&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;presentation&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;group&#34;</span><span class="p">:</span> <span class="s2">&#34;buildGroup&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;reveal&#34;</span><span class="p">:</span> <span class="s2">&#34;always&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;panel&#34;</span><span class="p">:</span> <span class="s2">&#34;new&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;echo&#34;</span><span class="p">:</span> <span class="kc">false</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span>
+</span></span><span class="line"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;label&#34;</span><span class="p">:</span> <span class="s2">&#34;Watch Client&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;shell&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;command&#34;</span><span class="p">:</span> <span class="s2">&#34;cd client &amp;&amp; npm run dev&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;group&#34;</span><span class="p">:</span> <span class="s2">&#34;build&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;presentation&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;group&#34;</span><span class="p">:</span> <span class="s2">&#34;buildGroup&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;reveal&#34;</span><span class="p">:</span> <span class="s2">&#34;always&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;panel&#34;</span><span class="p">:</span> <span class="s2">&#34;new&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;echo&#34;</span><span class="p">:</span> <span class="kc">false</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span>
+</span></span><span class="line"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;label&#34;</span><span class="p">:</span> <span class="s2">&#34;Watch All&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;dependsOn&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">            <span class="s2">&#34;Watch Server&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="s2">&#34;Watch Client&#34;</span>
+</span></span><span class="line"><span class="cl">        <span class="p">],</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;group&#34;</span><span class="p">:</span> <span class="s2">&#34;build&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;runOptions&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;runOn&#34;</span><span class="p">:</span> <span class="s2">&#34;folderOpen&#34;</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span>
+</span></span><span class="line"><span class="cl">  <span class="p">]</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span></span></span></code></pre></div><p>This will add a <strong>Watch All</strong> task to the tasks that can be found in the command palette under the <strong>Run Task</strong> option. It will also automatically run both tasks when the VS Code window is opened in the future.</p>
+<h2 id="step-5---test-your-project">Step 5 - Test Your Project</h2>
+<ol>
+<li>Use the <strong>Watch All</strong> task to start the frontend and backend in the terminal.</li>
+<li>Open <a href="http://localhost:3001" rel="external" target="_blank">http://localhost:3001</a> to see your project.</li>
+<li>phpMyAdmin can be accessed at <a href="http://localhost:8080" rel="external" target="_blank">http://localhost:8080</a>. Use the credentials found in the <code>docker-compose.yml</code> file to log in to the database.</li>
+</ol>
+<p>This project includes a small modification in the default Vue project to query data from the <code>/api/</code> route in the Express backend project to demonstrate using <code>vite</code> to proxy connections from the frontend to the backend.</p>
+<h2 id="step-6---deploy">Step 6 - Deploy</h2>
+<p>This project <strong>DOES NOT</strong> include appropriate Docker configurations for deployment. <strong>DO NOT USE</strong> the dev container Dockerfile for deployment.</p>
+<p>I can follow up with a proper deployment setup if desired - contact me!</p>
+
+            <footer class="footline">
+              
+              
+              
+              
+            </footer>
+          </article>
+
+        </div>
+      </main>
+    
+<div class="git-footer">
+  <p class="theme-version-footer">6.0.0</p>
+  <p>Last modified by: 
+              <i class='fas fa-user'></i> Nathan Bean
+              <i class='fas fa-calendar'></i> <a href="https://github.com/ksu-cs-textbooks/cis642-643/commit/f89a586fcaf4a6f093f54aa2e67169fda0d06158">Sep 4, 2024</a>
+  </p>
+  </div>
+  
+    
+    </div>
+    <script src="/cis642-643/js/clipboard.min.js?1725460735" defer></script>
+    <script src="/cis642-643/js/perfect-scrollbar.min.js?1725460735" defer></script>
+    <script src="/cis642-643/js/theme.js?1725460735" defer></script>
+  </body>
+</html>

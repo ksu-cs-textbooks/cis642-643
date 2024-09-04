@@ -1,0 +1,775 @@
+
+
+
+
+
+  
+	
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+		
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+		
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+		
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+		
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+		
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
+		
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.128.0">
+    <meta name="generator" content="Relearn 6.0.0">
+    <meta name="robots" content="noindex, nofollow, noarchive, noimageindex">
+    <meta name="description" content="This project will contain the following features:
+Dev Container Base Image VS Code Documentation Node.js and Express backend Vue 3 frontend MySQL and phpMyAdmin service containers Prerequisites Docker Desktop VS Code Dev Containers Extension Docker Extension Step 1 - Define the Dev Container Create a new project folder and open it in VS Code Use the command palette to add dev container files to the project (Documentation) Customize dev container files: devcontainer.">
+    <meta name="author" content="Nathan Bean">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Exercise: Docker Vue Dev Container :: K-State CIS 642/643 Textbook">
+    <meta name="twitter:description" content="This project will contain the following features:
+Dev Container Base Image VS Code Documentation Node.js and Express backend Vue 3 frontend MySQL and phpMyAdmin service containers Prerequisites Docker Desktop VS Code Dev Containers Extension Docker Extension Step 1 - Define the Dev Container Create a new project folder and open it in VS Code Use the command palette to add dev container files to the project (Documentation) Customize dev container files: devcontainer.">
+    <meta property="og:url" content="https://textbooks.cs.ksu.edu/cis642-643/2-waterfall-model/04-implementation/exercise-docker-vue-dev/">
+    <meta property="og:site_name" content="K-State CIS 642/643 Textbook">
+    <meta property="og:title" content="Exercise: Docker Vue Dev Container :: K-State CIS 642/643 Textbook">
+    <meta property="og:description" content="This project will contain the following features:
+Dev Container Base Image VS Code Documentation Node.js and Express backend Vue 3 frontend MySQL and phpMyAdmin service containers Prerequisites Docker Desktop VS Code Dev Containers Extension Docker Extension Step 1 - Define the Dev Container Create a new project folder and open it in VS Code Use the command palette to add dev container files to the project (Documentation) Customize dev container files: devcontainer.">
+    <meta property="og:locale" content="en-us">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="The Waterfall Model">
+    <meta property="article:modified_time" content="2024-09-04T09:27:11-05:00">
+    <meta itemprop="name" content="Exercise: Docker Vue Dev Container :: K-State CIS 642/643 Textbook">
+    <meta itemprop="description" content="This project will contain the following features:
+Dev Container Base Image VS Code Documentation Node.js and Express backend Vue 3 frontend MySQL and phpMyAdmin service containers Prerequisites Docker Desktop VS Code Dev Containers Extension Docker Extension Step 1 - Define the Dev Container Create a new project folder and open it in VS Code Use the command palette to add dev container files to the project (Documentation) Customize dev container files: devcontainer.">
+    <meta itemprop="dateModified" content="2024-09-04T09:27:11-05:00">
+    <meta itemprop="wordCount" content="930">
+    <title>Exercise: Docker Vue Dev Container :: K-State CIS 642/643 Textbook</title>
+    <link href="/cis642-643/css/fontawesome-all.min.css?1725460734" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/cis642-643/css/fontawesome-all.min.css?1725460734" rel="stylesheet"></noscript>
+    <link href="/cis642-643/css/nucleus.css?1725460734" rel="stylesheet">
+    <link href="/cis642-643/css/auto-complete.css?1725460734" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/cis642-643/css/auto-complete.css?1725460734" rel="stylesheet"></noscript>
+    <link href="/cis642-643/css/perfect-scrollbar.min.css?1725460734" rel="stylesheet">
+    <link href="/cis642-643/css/fonts.css?1725460734" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/cis642-643/css/fonts.css?1725460734" rel="stylesheet"></noscript>
+    <link href="/cis642-643/css/theme.css?1725460734" rel="stylesheet">
+    <link href="/cis642-643/css/theme-auto.css?1725460734" rel="stylesheet" id="R-variant-style">
+    <link href="/cis642-643/css/chroma-auto.css?1725460734" rel="stylesheet" id="R-variant-chroma-style">
+    <link href="/cis642-643/css/variant.css?1725460734" rel="stylesheet">
+    <link href="/cis642-643/css/print.css?1725460734" rel="stylesheet" media="print">
+    <script src="/cis642-643/js/variant.js?1725460734"></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.relBasePath='..\/..\/..';
+      window.relearn.relBaseUri='..\/..\/..\/..';
+      window.relearn.absBaseUri='https:\/\/textbooks.cs.ksu.edu\/cis642-643';
+      window.index_js_url="/cis642-643/index.search.js";
+      // variant stuff
+      window.variants && variants.init( [ 'auto', 'light-theme', 'dark-theme' ] );
+      // translations
+      window.T_Copy_to_clipboard = `Copy to clipboard`;
+      window.T_Copied_to_clipboard = `Copied to clipboard!`;
+      window.T_Copy_link_to_clipboard = `Copy link to clipboard`;
+      window.T_Link_copied_to_clipboard = `Copied link to clipboard!`;
+      window.T_Reset_view = `Reset view`;
+      window.T_View_reset = `View reset!`;
+      window.T_No_results_found = `No results found for "{0}"`;
+      window.T_N_results_found = `{1} results found for "{0}"`;
+    </script>
+    
+    <link href="/cis642-643/css/custom.css?1725460734" rel="stylesheet">
+  </head>
+  <body class="mobile-support html disableInlineCopyToClipboard" data-url="/cis642-643/2-waterfall-model/04-implementation/exercise-docker-vue-dev/">
+    <div id="R-body" class="default-animation">
+      <div id="R-body-overlay"></div>
+      <nav id="R-topbar">
+        <div class="topbar-wrapper">
+          <div class="topbar-sidebar-divider"></div>
+          <div class="topbar-area topbar-area-start" data-area="start">
+            <div class="topbar-button topbar-button-sidebar" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide"><button class="topbar-control" onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button>
+            </div>
+            <div class="topbar-button topbar-button-toc" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show"><button class="topbar-control" onclick="toggleTopbarFlyout(this)" type="button" title="Table of Contents (CTRL&#43;ALT&#43;t)"><i class="fa-fw fas fa-list-alt"></i></button>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper"><nav class="TableOfContents">
+  <ul>
+    <li><a href="#prerequisites">Prerequisites</a></li>
+    <li><a href="#step-1---define-the-dev-container">Step 1 - Define the Dev Container</a>
+      <ul>
+        <li><a href="#devcontainerjson"><code>devcontainer.json</code></a></li>
+        <li><a href="#docker-composeyml"><code>docker-compose.yml</code></a></li>
+        <li><a href="#dockerfile"><code>Dockerfile</code></a></li>
+      </ul>
+    </li>
+    <li><a href="#step-2---load-the-dev-container">Step 2 - Load the Dev Container</a></li>
+    <li><a href="#step-3---create-the-server-and-client-projects">Step 3 - Create the <code>server</code> and <code>client</code> Projects</a></li>
+    <li><a href="#step-4---create-vs-code-tasks">Step 4 - Create VS Code Tasks</a></li>
+    <li><a href="#step-5---test-your-project">Step 5 - Test Your Project</a></li>
+    <li><a href="#step-6---deploy">Step 6 - Deploy</a></li>
+  </ul>
+</nav>
+                </div>
+              </div>
+            </div>
+          </div>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="/cis642-643/2-waterfall-model/"><span itemprop="name">The Waterfall Model</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="/cis642-643/2-waterfall-model/04-implementation/"><span itemprop="name">Implementation</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">Exercise: Docker Vue Dev Container</span><meta itemprop="position" content="3"></li>
+          </ol>
+          <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-edit" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="https://github.com/ksu-cs-textbooks/cis642-643/edit/main/content/2-waterfall-model/04-implementation/exercise-docker-vue-dev.md" target="_blank" title="Edit (CTRL&#43;ALT&#43;w)"><i class="fa-fw fas fa-pen"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-print" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/cis642-643/2-waterfall-model/04-implementation/exercise-docker-vue-dev/index.print.html" title="Print whole chapter (CTRL&#43;ALT&#43;p)"><i class="fa-fw fas fa-print"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/cis642-643/2-waterfall-model/04-implementation/01-introduction/" title="Introduction (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/cis642-643/3-agile-models/" title="Agile Models (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-more" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show"><button class="topbar-control" onclick="toggleTopbarFlyout(this)" type="button" title="More"><i class="fa-fw fas fa-ellipsis-v"></i></button>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+                  <div class="topbar-area topbar-area-more" data-area="more">
+            <div class="topbar-button topbar-button-embed" data-content-empty="disable" data-width-s="area-more" data-width-m="area-more" data-width-l="area-more"><a class="topbar-control" href="/cis642-643/2-waterfall-model/04-implementation/exercise-docker-vue-dev/embed.html" title="Embeddable Version"><i class="fa-fw fas fa-expand-arrows-alt"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-tele" data-content-empty="disable" data-width-s="area-more" data-width-m="area-more" data-width-l="area-more"><a class="topbar-control" href="/cis642-643/2-waterfall-model/04-implementation/exercise-docker-vue-dev/tele.html" title="Teleprompter View"><i class="fa-fw fas fa-tv"></i></a>
+            </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div id="R-main-overlay"></div>
+      <main id="R-body-inner" class="highlightable default" tabindex="-1">
+        <div class="flex-block-wrapper">
+          <article class="default">
+            <header class="headline">
+            </header>
+
+<h1 id="exercise-docker-vue-dev-container">Exercise: Docker Vue Dev Container</h1>
+
+<p><a href="https://www.youtube.com/watch?v=E_B-dxVSYec" rel="external" target="_blank"><a href="#R-image-0b299555fdb92cb38a9d4288efd079de" class="lightbox-link"><img alt="YouTube Explainer" class="border lazy lightbox noshadow figure-image" loading="lazy" src="https://img.youtube.com/vi/E_B-dxVSYec/0.jpg" style=" height: auto; width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-0b299555fdb92cb38a9d4288efd079de"><img alt="YouTube Explainer" class="border lazy lightbox noshadow lightbox-image" loading="lazy" src="https://img.youtube.com/vi/E_B-dxVSYec/0.jpg"></a></a></p>
+<p>This project will contain the following features:</p>
+<ul>
+<li><a href="https://containers.dev/" rel="external" target="_blank">Dev Container</a>
+<ul>
+<li><a href="https://github.com/devcontainers/images/tree/main/src/javascript-node" rel="external" target="_blank">Base Image</a></li>
+<li><a href="https://code.visualstudio.com/docs/devcontainers/containers" rel="external" target="_blank">VS Code Documentation</a></li>
+</ul>
+</li>
+<li><a href="https://nodejs.org/en" rel="external" target="_blank">Node.js</a> and <a href="https://expressjs.com/" rel="external" target="_blank">Express</a> backend</li>
+<li><a href="https://vuejs.org/" rel="external" target="_blank">Vue 3</a> frontend</li>
+<li><a href="https://hub.docker.com/_/mysql" rel="external" target="_blank">MySQL</a> and <a href="https://hub.docker.com/_/phpmyadmin" rel="external" target="_blank">phpMyAdmin</a> service containers</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li><a href="https://www.docker.com/products/docker-desktop/" rel="external" target="_blank">Docker Desktop</a></li>
+<li><a href="https://code.visualstudio.com/" rel="external" target="_blank">VS Code</a>
+<ul>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers" rel="external" target="_blank">Dev Containers Extension</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker" rel="external" target="_blank">Docker Extension</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="step-1---define-the-dev-container">Step 1 - Define the Dev Container</h2>
+<ol>
+<li>Create a new project folder and open it in VS Code</li>
+<li>Use the command palette to add dev container files to the project (<a href="https://code.visualstudio.com/docs/devcontainers/create-dev-container" rel="external" target="_blank">Documentation</a>)</li>
+<li>Customize dev container files:</li>
+</ol>
+<h3 id="devcontainerjson"><code>devcontainer.json</code></h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-json" data-lang="json"><span class="line"><span class="cl"><span class="c1">// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+</span></span></span><span class="line"><span class="cl"><span class="c1">// README at: https://github.com/devcontainers/templates/tree/main/src/javascript-node
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">	<span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;Node.js, Vue 3 &amp; MySQL&#34;</span><span class="p">,</span>  <span class="c1">//
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="c1">// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="c1">// &#34;image&#34;: &#34;mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm&#34;
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="nt">&#34;dockerComposeFile&#34;</span><span class="p">:</span> <span class="s2">&#34;docker-compose.yml&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">	<span class="nt">&#34;service&#34;</span><span class="p">:</span> <span class="s2">&#34;app&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">	<span class="nt">&#34;workspaceFolder&#34;</span><span class="p">:</span> <span class="s2">&#34;/workspaces/${localWorkspaceFolderBasename}&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="c1">// Features to add to the dev container. More info: https://containers.dev/features.
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="nt">&#34;features&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;ghcr.io/devcontainers-contrib/features/vue-cli:2&#34;</span><span class="p">:</span> <span class="p">{}</span>
+</span></span><span class="line"><span class="cl">	<span class="p">},</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="c1">// Use &#39;forwardPorts&#39; to make a list of ports inside the container available locally.
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="nt">&#34;forwardPorts&#34;</span><span class="p">:</span> <span class="p">[</span><span class="mi">3001</span><span class="p">],</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="c1">// Use &#39;postCreateCommand&#39; to run commands after the container is created.
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="nt">&#34;postCreateCommand&#34;</span><span class="p">:</span> <span class="s2">&#34;cd server &amp;&amp; npm install &amp;&amp; cd ../client &amp;&amp; npm install&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="c1">// Configure tool-specific properties.
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="nt">&#34;customizations&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">		<span class="nt">&#34;vscode&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nt">&#34;extensions&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">				<span class="s2">&#34;Vue.volar&#34;</span>
+</span></span><span class="line"><span class="cl">			<span class="p">]</span>
+</span></span><span class="line"><span class="cl">		<span class="p">}</span>
+</span></span><span class="line"><span class="cl">	<span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="c1">// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="c1">// &#34;remoteUser&#34;: &#34;root&#34;
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="p">}</span></span></span></code></pre></div><p>This can be easily customized to support different frontends or backends by adding different features or customizations. Also note the forwarded port <code>3001</code> can be changed.</p>
+<h3 id="docker-composeyml"><code>docker-compose.yml</code></h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yml" data-lang="yml"><span class="line"><span class="cl"><span class="nt">version</span><span class="p">:</span><span class="w"> </span><span class="s1">&#39;3.8&#39;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">services</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">app</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">build</span><span class="p">:</span><span class="w"> 
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">context</span><span class="p">:</span><span class="w"> </span><span class="l">.</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">dockerfile</span><span class="p">:</span><span class="w"> </span><span class="l">Dockerfile</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">volumes</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span>- <span class="l">../..:/workspaces:cached</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="c"># Overrides default command so things don&#39;t shut down after the process ends.</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">command</span><span class="p">:</span><span class="w"> </span><span class="l">sleep infinity</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="c"># Additional Services</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">mysqlnvd</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">image</span><span class="p">:</span><span class="w"> </span><span class="l">mysql:lts</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">container_name</span><span class="p">:</span><span class="w"> </span><span class="l">mysqlnvd</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">environment</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">MYSQL_HOST</span><span class="p">:</span><span class="w"> </span><span class="l">mysqlnvd</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">MYSQL_DATABASE</span><span class="p">:</span><span class="w"> </span><span class="l">database</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">MYSQL_USER</span><span class="p">:</span><span class="w"> </span><span class="l">user</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">MYSQL_PASSWORD</span><span class="p">:</span><span class="w"> </span><span class="l">password</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">MYSQL_RANDOM_ROOT_PASSWORD</span><span class="p">:</span><span class="w"> </span><span class="l">fact</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">phpmyadminnvd</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">image</span><span class="p">:</span><span class="w"> </span><span class="l">phpmyadmin:latest</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">container_name</span><span class="p">:</span><span class="w"> </span><span class="l">phpmyadminnvd</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">environment</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">PMA_ARBITRARY</span><span class="p">:</span><span class="w"> </span><span class="m">1</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">ports</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">      </span>- <span class="s1">&#39;8080:80&#39;</span></span></span></code></pre></div><p>Likewise, the additional services defined in this file can be updated to include things like Mongo, PostgreSQL, or other Docker containers. If your system has a reverse proxy such as <a href="https://traefik.io/traefik/" rel="external" target="_blank">Traefik</a>, you can add the labels here to enable external routing.</p>
+<h3 id="dockerfile"><code>Dockerfile</code></h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-dockerfile" data-lang="dockerfile"><span class="line"><span class="cl"><span class="k">FROM</span><span class="s"> mcr.microsoft.com/devcontainers/javascript-node:22-bookworm</span></span></span></code></pre></div><p>If addtional items should be included in the container they can be added here. For example, I typically install <code>zsh</code> (my preferred terminal), <code>gnupg</code> (to sign commits), <code>npm-check-updates</code> (to easily update <code>npm</code> packages) and <code>better-commits</code> (to create more useful commit messages).</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-dockerfile" data-lang="dockerfile"><span class="line"><span class="cl"><span class="k">FROM</span><span class="s"> mcr.microsoft.com/devcontainers/javascript-node:22-bookworm</span><span class="err">
+</span></span></span><span class="line"><span class="cl"><span class="err">
+</span></span></span><span class="line"><span class="cl"><span class="err"></span><span class="c"># [Optional] Uncomment this section to install additional OS packages.</span><span class="err">
+</span></span></span><span class="line"><span class="cl"><span class="err"></span><span class="k">RUN</span> apt-get update <span class="o">&amp;&amp;</span> <span class="nb">export</span> <span class="nv">DEBIAN_FRONTEND</span><span class="o">=</span>noninteractive <span class="se">\
+</span></span></span><span class="line"><span class="cl"><span class="se"></span>    <span class="o">&amp;&amp;</span> apt-get -y install --no-install-recommends gnupg2 zsh<span class="err">
+</span></span></span><span class="line"><span class="cl"><span class="err">
+</span></span></span><span class="line"><span class="cl"><span class="err"></span><span class="c"># [Optional] Install global node modules</span><span class="err">
+</span></span></span><span class="line"><span class="cl"><span class="err"></span><span class="k">RUN</span> su node -c <span class="s2">&#34;npm install -g npm-check-updates better-commits&#34;</span></span></span></code></pre></div><h2 id="step-2---load-the-dev-container">Step 2 - Load the Dev Container</h2>
+<ol>
+<li>In VS Code, use the command palette to reopen the folder in a dev container. The first time this action is performed, it may take several minutes to download base images and build the container. This will be much faster in the future.</li>
+<li>You will get an error stating that the last step failed the first time - this is because we have not created the <code>server</code> and <code>client</code> projects yet, so running <code>npm install</code> in those folders will not work.</li>
+</ol>
+<h2 id="step-3---create-the-server-and-client-projects">Step 3 - Create the <code>server</code> and <code>client</code> Projects</h2>
+<ol>
+<li>Use the <a href="https://expressjs.com/en/starter/generator.html" rel="external" target="_blank">Express Generator</a> to create an Express project in the <code>server</code> folder.</li>
+<li>I typically install <a href="https://www.npmjs.com/package/nodemon" rel="external" target="_blank"><code>nodemon</code></a> and configure a <code>dev</code> command in the <code>package.json</code> file to use <code>nodemon</code> with this setup.</li>
+<li>By default the Express Generator does not include a <code>.gitignore</code> file in the <code>server</code> folder. I recommend using <a href="https://github.com/github/gitignore/blob/main/Node.gitignore" rel="external" target="_blank">this one</a> as a starter.</li>
+<li>Use the <a href="https://vuejs.org/guide/quick-start" rel="external" target="_blank"><code>create-vue</code></a> scaffolding tool to create a Vue 3 project in the <code>client</code> folder.</li>
+<li>If you plan on using another frontend, such as React or Angular you can easily substitute it at this point.</li>
+<li>By default, <code>vite</code> only attaches to internal ports and uses a random port. I recommend customizing the <code>dev</code> script in the <code>package.json</code> file to match include explicit host and port entries: <code>&quot;dev&quot;: &quot;vite --host 0.0.0.0 --port 3001&quot;</code></li>
+<li>For a <code>vite</code> project, customize the <code>vite.config.js</code> to proxy API connections to the backend as desired. See that file in this repo for an example.</li>
+<li>Similar configuration can be done for other frontend frameworks</li>
+</ol>
+<h2 id="step-4---create-vs-code-tasks">Step 4 - Create VS Code Tasks</h2>
+<ol>
+<li>Create the file <code>.vscode/tasks.json</code> with the following content:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-json" data-lang="json"><span class="line"><span class="cl"><span class="c1">// .vscode/tasks.json
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">// See https://go.microsoft.com/fwlink/?LinkId=733558
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="c1">// for the documentation about the tasks.json format
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="nt">&#34;version&#34;</span><span class="p">:</span> <span class="s2">&#34;2.0.0&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="nt">&#34;tasks&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;label&#34;</span><span class="p">:</span> <span class="s2">&#34;Watch Server&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;shell&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;command&#34;</span><span class="p">:</span> <span class="s2">&#34;cd server &amp;&amp; npm run dev&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;group&#34;</span><span class="p">:</span> <span class="s2">&#34;build&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;presentation&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;group&#34;</span><span class="p">:</span> <span class="s2">&#34;buildGroup&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;reveal&#34;</span><span class="p">:</span> <span class="s2">&#34;always&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;panel&#34;</span><span class="p">:</span> <span class="s2">&#34;new&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;echo&#34;</span><span class="p">:</span> <span class="kc">false</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span>
+</span></span><span class="line"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;label&#34;</span><span class="p">:</span> <span class="s2">&#34;Watch Client&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;shell&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;command&#34;</span><span class="p">:</span> <span class="s2">&#34;cd client &amp;&amp; npm run dev&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;group&#34;</span><span class="p">:</span> <span class="s2">&#34;build&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;presentation&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;group&#34;</span><span class="p">:</span> <span class="s2">&#34;buildGroup&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;reveal&#34;</span><span class="p">:</span> <span class="s2">&#34;always&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;panel&#34;</span><span class="p">:</span> <span class="s2">&#34;new&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;echo&#34;</span><span class="p">:</span> <span class="kc">false</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span>
+</span></span><span class="line"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;label&#34;</span><span class="p">:</span> <span class="s2">&#34;Watch All&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;dependsOn&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">            <span class="s2">&#34;Watch Server&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="s2">&#34;Watch Client&#34;</span>
+</span></span><span class="line"><span class="cl">        <span class="p">],</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;group&#34;</span><span class="p">:</span> <span class="s2">&#34;build&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nt">&#34;runOptions&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">            <span class="nt">&#34;runOn&#34;</span><span class="p">:</span> <span class="s2">&#34;folderOpen&#34;</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span>
+</span></span><span class="line"><span class="cl">  <span class="p">]</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span></span></span></code></pre></div><p>This will add a <strong>Watch All</strong> task to the tasks that can be found in the command palette under the <strong>Run Task</strong> option. It will also automatically run both tasks when the VS Code window is opened in the future.</p>
+<h2 id="step-5---test-your-project">Step 5 - Test Your Project</h2>
+<ol>
+<li>Use the <strong>Watch All</strong> task to start the frontend and backend in the terminal.</li>
+<li>Open <a href="http://localhost:3001" rel="external" target="_blank">http://localhost:3001</a> to see your project.</li>
+<li>phpMyAdmin can be accessed at <a href="http://localhost:8080" rel="external" target="_blank">http://localhost:8080</a>. Use the credentials found in the <code>docker-compose.yml</code> file to log in to the database.</li>
+</ol>
+<p>This project includes a small modification in the default Vue project to query data from the <code>/api/</code> route in the Express backend project to demonstrate using <code>vite</code> to proxy connections from the frontend to the backend.</p>
+<h2 id="step-6---deploy">Step 6 - Deploy</h2>
+<p>This project <strong>DOES NOT</strong> include appropriate Docker configurations for deployment. <strong>DO NOT USE</strong> the dev container Dockerfile for deployment.</p>
+<p>I can follow up with a proper deployment setup if desired - contact me!</p>
+
+            <footer class="footline">
+              
+              
+              
+              
+            </footer>
+          </article>
+        </div>
+      </main>
+    
+<div class="git-footer">
+  <p class="theme-version-footer">6.0.0</p>
+  <p>Last modified by: 
+              <i class='fas fa-user'></i> Nathan Bean
+              <i class='fas fa-calendar'></i> <a href="https://github.com/ksu-cs-textbooks/cis642-643/commit/f89a586fcaf4a6f093f54aa2e67169fda0d06158">Sep 4, 2024</a>
+  </p>
+  </div>
+  
+    
+    </div>
+    <aside id="R-sidebar" class="default-animation">
+      <div id="R-header-topbar" class="default-animation"></div>
+      <div id="R-header-wrapper" class="default-animation">
+        <div id="R-header" class="default-animation">
+
+<a id="logo" href="/cis642-643/">
+  K-State CIS 642/643 Textbook
+</a>
+
+        </div>
+
+        <search><form action="/cis642-643/search.html" method="get">
+          <div class="searchbox default-animation">
+            <button class="search-detail" type="submit" title="Search (CTRL+ALT+f)"><i class="fas fa-search"></i></button>
+            <label class="a11y-only" for="R-search-by">Search</label>
+            <input data-search-input id="R-search-by" name="search-by" class="search-by" type="search" placeholder="Search...">
+            <button class="search-clear" type="button" data-search-clear="" title="Clear search"><i class="fas fa-times" title="Clear search"></i></button>
+          </div>
+        </form></search>
+        <script>
+          var contentLangs=['en'];
+        </script>
+        <script src="/cis642-643/js/auto-complete.js?1725460734" defer></script>
+        <script src="/cis642-643/js/lunr/lunr.min.js?1725460734" defer></script>
+        <script src="/cis642-643/js/lunr/lunr.stemmer.support.min.js?1725460734" defer></script>
+        <script src="/cis642-643/js/lunr/lunr.multi.min.js?1725460734" defer></script>
+        <script src="/cis642-643/js/lunr/lunr.en.min.js?1725460734" defer></script>
+        <script src="/cis642-643/js/search.js?1725460734" defer></script>
+      </div>
+      <div id="R-homelinks" class="default-animation">
+        <hr class="padding">
+      </div>
+      <div id="R-content-wrapper" class="highlightable">
+        <div id="R-topics">
+          <ul class="enlarge morespace collapsible-menu">
+          <li data-nav-id="/cis642-643/00-forward/" class=""><input type="checkbox" id="R-section-381359032fecc4a21eb3e40a6b817646" aria-controls="R-subsections-381359032fecc4a21eb3e40a6b817646"><label for="R-section-381359032fecc4a21eb3e40a6b817646"><i class="fa-fw fas fa-chevron-down"></i><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu Course Information</span></label><a class="padding" href="/cis642-643/00-forward/"><b>0. </b>Course Information</a><ul id="R-subsections-381359032fecc4a21eb3e40a6b817646" class="morespace collapsible-menu">
+          <li data-nav-id="/cis642-643/00-forward/01-introduction/" class=""><a class="padding" href="/cis642-643/00-forward/01-introduction/">1. Introduction</a></li>
+          <li data-nav-id="/cis642-643/00-forward/02-course-structure/" class=""><a class="padding" href="/cis642-643/00-forward/02-course-structure/">2. Course Structure</a></li>
+          <li data-nav-id="/cis642-643/00-forward/03-grading/" class=""><a class="padding" href="/cis642-643/00-forward/03-grading/">3. Grading</a></li>
+          <li data-nav-id="/cis642-643/00-forward/04-textbooks/" class=""><a class="padding" href="/cis642-643/00-forward/04-textbooks/">4. Course Textbooks</a></li>
+          <li data-nav-id="/cis642-643/00-forward/05-course-software/" class=""><a class="padding" href="/cis642-643/00-forward/05-course-software/">5. Course Software</a></li>
+          <li data-nav-id="/cis642-643/00-forward/06-where-to-find-help/" class=""><a class="padding" href="/cis642-643/00-forward/06-where-to-find-help/">6. Where to Find Help</a></li>
+          <li data-nav-id="/cis642-643/00-forward/07-642-syllabus/" class=""><a class="padding" href="/cis642-643/00-forward/07-642-syllabus/">7. CIS 642 Syllabus</a></li>
+          <li data-nav-id="/cis642-643/00-forward/08-643-syllabus/" class=""><a class="padding" href="/cis642-643/00-forward/08-643-syllabus/">8. CIS 643 Syllabus</a></li>
+          <li data-nav-id="/cis642-643/00-forward/09-642-schedule/" class=""><a class="padding" href="/cis642-643/00-forward/09-642-schedule/">9. CIS 642 Schedule</a></li>
+          <li data-nav-id="/cis642-643/00-forward/10-643-schedule/" class=""><a class="padding" href="/cis642-643/00-forward/10-643-schedule/">10. CIS 643 Schedule</a></li></ul></li>
+          <li data-nav-id="/cis642-643/1-history-of-software/" class=""><input type="checkbox" id="R-section-da4ff8df5a551805ba020a2256002070" aria-controls="R-subsections-da4ff8df5a551805ba020a2256002070"><label for="R-section-da4ff8df5a551805ba020a2256002070"><i class="fa-fw fas fa-chevron-down"></i><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu History of Software Development</span></label><a class="padding" href="/cis642-643/1-history-of-software/"><b>1. </b>History of Software Development</a><ul id="R-subsections-da4ff8df5a551805ba020a2256002070" class="morespace collapsible-menu">
+          <li data-nav-id="/cis642-643/1-history-of-software/01-introduction/" class=""><a class="padding" href="/cis642-643/1-history-of-software/01-introduction/">1. Introduction</a></li>
+          <li data-nav-id="/cis642-643/1-history-of-software/02-early-programming/" class=""><a class="padding" href="/cis642-643/1-history-of-software/02-early-programming/">2. Early Programming</a></li>
+          <li data-nav-id="/cis642-643/1-history-of-software/03-software-engineering/" class=""><a class="padding" href="/cis642-643/1-history-of-software/03-software-engineering/">3. Software Engineering</a></li>
+          <li data-nav-id="/cis642-643/1-history-of-software/04-growth-of-computing/" class=""><a class="padding" href="/cis642-643/1-history-of-software/04-growth-of-computing/">4. Growth of Computing</a></li>
+          <li data-nav-id="/cis642-643/1-history-of-software/05-evolution-of-programming/" class=""><a class="padding" href="/cis642-643/1-history-of-software/05-evolution-of-programming/">5. Evolution of Programming</a></li>
+          <li data-nav-id="/cis642-643/1-history-of-software/06-project-management/" class=""><a class="padding" href="/cis642-643/1-history-of-software/06-project-management/">6. Software Project Management</a></li>
+          <li data-nav-id="/cis642-643/1-history-of-software/07-software-crisis/" class=""><a class="padding" href="/cis642-643/1-history-of-software/07-software-crisis/">7. The Software Crisis</a></li>
+          <li data-nav-id="/cis642-643/1-history-of-software/08-summary/" class=""><a class="padding" href="/cis642-643/1-history-of-software/08-summary/">8. Summary</a></li></ul></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/" class="parent "><input type="checkbox" id="R-section-88dc9ca9ac52e7e7499d856b3d7b734b" aria-controls="R-subsections-88dc9ca9ac52e7e7499d856b3d7b734b" checked><label for="R-section-88dc9ca9ac52e7e7499d856b3d7b734b"><i class="fa-fw fas fa-chevron-down"></i><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu The Waterfall Model</span></label><a class="padding" href="/cis642-643/2-waterfall-model/"><b>2. </b>The Waterfall Model</a><ul id="R-subsections-88dc9ca9ac52e7e7499d856b3d7b734b" class="morespace collapsible-menu">
+          <li data-nav-id="/cis642-643/2-waterfall-model/01-introduction/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/01-introduction/">1. Introduction</a></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/02-requirements-gathering/" class=""><input type="checkbox" id="R-section-eb551d680b0500b8b7d1a4a1b603ed53" aria-controls="R-subsections-eb551d680b0500b8b7d1a4a1b603ed53"><label for="R-section-eb551d680b0500b8b7d1a4a1b603ed53"><i class="fa-fw fas fa-chevron-down"></i><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu Requirements Gathering</span></label><a class="padding" href="/cis642-643/2-waterfall-model/02-requirements-gathering/"><b>2. </b>Requirements Gathering</a><ul id="R-subsections-eb551d680b0500b8b7d1a4a1b603ed53" class="morespace collapsible-menu">
+          <li data-nav-id="/cis642-643/2-waterfall-model/02-requirements-gathering/01-introduction/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/02-requirements-gathering/01-introduction/">2.1. Introduction</a></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/02-requirements-gathering/02-formal-requirements/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/02-requirements-gathering/02-formal-requirements/">2.2. Formal Requirements</a></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/02-requirements-gathering/03-business-and-functional-requirements/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/02-requirements-gathering/03-business-and-functional-requirements/">2.3. Business and Functional Requirements</a></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/02-requirements-gathering/04-non-functional-requirements/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/02-requirements-gathering/04-non-functional-requirements/">2.4. Non-Functional Requirements</a></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/02-requirements-gathering/05-features/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/02-requirements-gathering/05-features/">2.5. Features</a></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/02-requirements-gathering/06-discovering-requirements/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/02-requirements-gathering/06-discovering-requirements/">2.6. Discovering Requirements</a></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/02-requirements-gathering/07-techniques/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/02-requirements-gathering/07-techniques/">2.7. Requirement Gathering Techniques</a></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/02-requirements-gathering/08-conflicting-viewpoints/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/02-requirements-gathering/08-conflicting-viewpoints/">2.8. Conflicting Viewpoints</a></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/02-requirements-gathering/09-summary/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/02-requirements-gathering/09-summary/">2.9. Summary</a></li></ul></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/03-design/" class=""><input type="checkbox" id="R-section-c3344755657da7b9e62075cc17b4e52d" aria-controls="R-subsections-c3344755657da7b9e62075cc17b4e52d"><label for="R-section-c3344755657da7b9e62075cc17b4e52d"><i class="fa-fw fas fa-chevron-down"></i><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu Design</span></label><a class="padding" href="/cis642-643/2-waterfall-model/03-design/"><b>3. </b>Design</a><ul id="R-subsections-c3344755657da7b9e62075cc17b4e52d" class="morespace collapsible-menu">
+          <li data-nav-id="/cis642-643/2-waterfall-model/03-design/01-introduction/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/03-design/01-introduction/">1. Introduction</a></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/03-design/02-design-document/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/03-design/02-design-document/">2. Design Document</a></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/03-design/03-class-diagrams/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/03-design/03-class-diagrams/">3. Class Diagrams</a></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/03-design/04-database-diagrams/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/03-design/04-database-diagrams/">4. Database Diagrams</a></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/03-design/05-ux-diagrams/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/03-design/05-ux-diagrams/">5. UX Diagrams</a></li></ul></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/04-implementation/" class="parent "><input type="checkbox" id="R-section-4ca7eb78abbc6dc0b3583be74b8480f9" aria-controls="R-subsections-4ca7eb78abbc6dc0b3583be74b8480f9" checked><label for="R-section-4ca7eb78abbc6dc0b3583be74b8480f9"><i class="fa-fw fas fa-chevron-down"></i><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu Implementation</span></label><a class="padding" href="/cis642-643/2-waterfall-model/04-implementation/"><b>4. </b>Implementation</a><ul id="R-subsections-4ca7eb78abbc6dc0b3583be74b8480f9" class="morespace collapsible-menu">
+          <li data-nav-id="/cis642-643/2-waterfall-model/04-implementation/01-introduction/" class=""><a class="padding" href="/cis642-643/2-waterfall-model/04-implementation/01-introduction/">1. Introduction</a></li>
+          <li data-nav-id="/cis642-643/2-waterfall-model/04-implementation/exercise-docker-vue-dev/" class="active"><a class="padding" href="/cis642-643/2-waterfall-model/04-implementation/exercise-docker-vue-dev/">Exercise: Docker Vue Dev Container</a></li></ul></li></ul></li>
+          <li data-nav-id="/cis642-643/3-agile-models/" class=""><a class="padding" href="/cis642-643/3-agile-models/"><b>3. </b>Agile Models</a></li>
+          <li data-nav-id="/cis642-643/a-assignments/" class=""><input type="checkbox" id="R-section-5bf89fad28af1021bc77a35311849d1b" aria-controls="R-subsections-5bf89fad28af1021bc77a35311849d1b"><label for="R-section-5bf89fad28af1021bc77a35311849d1b"><i class="fa-fw fas fa-chevron-down"></i><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu Assignment Descriptions</span></label><a class="padding" href="/cis642-643/a-assignments/"><b>A. </b>Assignment Descriptions</a><ul id="R-subsections-5bf89fad28af1021bc77a35311849d1b" class="morespace collapsible-menu">
+          <li data-nav-id="/cis642-643/a-assignments/01-introduction/" class=""><a class="padding" href="/cis642-643/a-assignments/01-introduction/">1. Introduction</a></li>
+          <li data-nav-id="/cis642-643/a-assignments/02-task-board/" class=""><a class="padding" href="/cis642-643/a-assignments/02-task-board/">2. Task Board</a></li>
+          <li data-nav-id="/cis642-643/a-assignments/03-daily-stand-up/" class=""><a class="padding" href="/cis642-643/a-assignments/03-daily-stand-up/">3. Daily Stand Up</a></li>
+          <li data-nav-id="/cis642-643/a-assignments/04-sprint-meeting/" class=""><a class="padding" href="/cis642-643/a-assignments/04-sprint-meeting/">3. Sprint Meetings</a></li>
+          <li data-nav-id="/cis642-643/a-assignments/05-sprint-release/" class=""><a class="padding" href="/cis642-643/a-assignments/05-sprint-release/">5. Sprint Release</a></li>
+          <li data-nav-id="/cis642-643/a-assignments/06-specification-document/" class=""><a class="padding" href="/cis642-643/a-assignments/06-specification-document/">6. Specification Document</a></li></ul></li>
+          </ul>
+        </div>
+        <div class="padding footermargin footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showFooter"></div>
+        <div id="R-menu-footer">
+          <hr class="padding default-animation footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showFooter">
+          <div id="R-prefooter" class="footerLangSwitch footerVariantSwitch footerVisitedLinks showVariantSwitch">
+            <ul>
+              <li id="R-select-language-container" class="footerLangSwitch">
+                <div class="padding menu-control">
+                  <i class="fa-fw fas fa-language"></i>
+                  <span>&nbsp;</span>
+                  <div class="control-style">
+                    <label class="a11y-only" for="R-select-language">Language</label>
+                    <select id="R-select-language" onchange="location = this.querySelector( this.value ).dataset.url;">
+                      <option id="R-select-language-en" value="#R-select-language-en" data-url="/cis642-643/2-waterfall-model/04-implementation/exercise-docker-vue-dev/" lang="en-us" selected></option>
+                    </select>
+                  </div>
+                  <div class="clear"></div>
+                </div>
+              </li>
+              <li id="R-select-variant-container" class="footerVariantSwitch showVariantSwitch">
+                <div class="padding menu-control">
+                  <i class="fa-fw fas fa-paint-brush"></i>
+                  <span>&nbsp;</span>
+                  <div class="control-style">
+                    <label class="a11y-only" for="R-select-variant">Theme</label>
+                    <select id="R-select-variant" onchange="window.variants && variants.changeVariant( this.value );">
+                      <option id="R-select-variant-auto" value="auto" selected>KSU Auto</option>
+                      <option id="R-select-variant-light-theme" value="light-theme">KSU Light</option>
+                      <option id="R-select-variant-dark-theme" value="dark-theme">KSU Dark</option>
+                    </select>
+                  </div>
+                  <div class="clear"></div>
+                </div>
+                <script>window.variants && variants.markSelectedVariant();</script>
+              </li>
+              <li class="footerVisitedLinks">
+                <div class="padding menu-control">
+                  <i class="fa-fw fas fa-history"></i>
+                  <span>&nbsp;</span>
+                  <div class="control-style">
+                    <button onclick="clearHistory();">Clear History</button>
+                  </div>
+                  <div class="clear"></div>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div id="R-footer" class="footerFooter showFooter"><p>Built using <a href="http://gohugo.io/">Hugo</a> and <a href="https://github.com/ksu-cs-textbooks/hugo-theme-relearn">Hugo Relearn Theme</a>.</p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; margin: .5rem auto" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a></p>
+          </div>
+        </div>
+      </div>
+    </aside>
+    <script src="/cis642-643/js/clipboard.min.js?1725460734" defer></script>
+    <script src="/cis642-643/js/perfect-scrollbar.min.js?1725460734" defer></script>
+    <script src="/cis642-643/js/theme.js?1725460734" defer></script>
+  </body>
+</html>

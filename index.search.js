@@ -238,6 +238,16 @@
 
   
 	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
 		
 		
 	  
@@ -338,6 +348,14 @@ var relearn_search_index = [
     "tags": [],
     "title": "Introduction",
     "uri": "/cis642-643/2-waterfall-model/03-design/01-introduction/"
+  },
+  {
+    "breadcrumb": "The Waterfall Model \u003e Implementation",
+    "content": "The implementation phase of the waterfall should be the most familiar to you, as it is the actual process of creating the proposed software system. This is, after all, the subject of most of your early coursework - the basics of programming, algorithm design, and considering time and memory complexity of your employed algorithms.\nIt is critical that the implementation adhere to the details provided by the design, as this ensures that a large body of programmers can work independently on the aspects of the system. But despite the best efforts of the designers, it is not uncommon for some critical details to be overlooked. In a properly implemented waterfall process, this kind of “splashback” is anticipated, and a process exists for proposing, approving, and disseminating changes to the design. Because these changes can cause problems for the other programmers working in other areas of the software, it is important for the change to be communicated clearly to all parties (hence the need for a formal process).\nIn addition to following the design, programmers in this phase should be applying best practices in terms of documenting the code they write as well as writing automated tests. This effort ensures that the code not only meets the specification, but that it works as intended, and is straightforward to maintain. Remember, the programmers working with the project during its maintainence phase will likely not be those who created it in the first place.",
+    "description": "The implementation phase of the waterfall should be the most familiar to you, as it is the actual process of creating the proposed software system. This is, after all, the subject of most of your early coursework - the basics of programming, algorithm design, and considering time and memory complexity of your employed algorithms.\nIt is critical that the implementation adhere to the details provided by the design, as this ensures that a large body of programmers can work independently on the aspects of the system.",
+    "tags": [],
+    "title": "Introduction",
+    "uri": "/cis642-643/2-waterfall-model/04-implementation/01-introduction/"
   },
   {
     "breadcrumb": "Assignment Descriptions",
@@ -476,6 +494,14 @@ var relearn_search_index = [
     "uri": "/cis642-643/2-waterfall-model/03-design/"
   },
   {
+    "breadcrumb": "The Waterfall Model",
+    "content": "We can build it!",
+    "description": "We can build it!",
+    "tags": [],
+    "title": "Implementation",
+    "uri": "/cis642-643/2-waterfall-model/04-implementation/"
+  },
+  {
     "breadcrumb": "Course Information",
     "content": " Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I\u0026II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.\nThis course does not have a required print textbook. The resources presented in the modules are also organized into an online textbook that can be accessed here: https://textbooks.cs.ksu.edu/cis642-643/. You may find this a useful reference if you prefer a traditional textbook layout. Additionally, since the textbook exists outside of Canvas’ access control, you can continue to utilize it after the course ends.\nWarning Please note that the materials presented in Canvas have additional graded assignments and exercises worked into the reading order that do not appear in the online edition of the textbook. You are responsible for completing these!\nO’Riley for Higher Education As the teams in this course will be engaging in developing software for a variety of platforms and languages, I would recommend that you look to the O’Riley For Higher Education digital library offered through the Kansas State University Library for texts to support your effort. The resources available include electronic editions of thousands of popular textbooks as well as videos and tutorials covering the breadth of computer science and software engineering, along with a focus on current technologies and libraries.\nIf you were to read any book that comes out of our introductory content and appearing in the O’Riley library, I would highly recommend:\n“The Mythical Man-Month: Essays on Software Engineering” probably the most influential book on software engineering practices.\nThe O’Riley library is a great resource for all your CS coursework. It costs you nothing (technically, your access was paid for by your tuition and fees), so you might as well make use of it!",
     "description": "Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I\u0026II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.\nThis course does not have a required print textbook. The resources presented in the modules are also organized into an online textbook that can be accessed here: https://textbooks.cs.ksu.edu/cis642-643/. You may find this a useful reference if you prefer a traditional textbook layout.",
@@ -498,14 +524,6 @@ var relearn_search_index = [
     "tags": [],
     "title": "Growth of Computing",
     "uri": "/cis642-643/1-history-of-software/04-growth-of-computing/"
-  },
-  {
-    "breadcrumb": "The Waterfall Model",
-    "content": "The implementation phase of the waterfall should be the most familiar to you, as it is the actual process of creating the proposed software system. This is, after all, the subject of most of your early coursework - the basics of programming, algorithm design, and considering time and memory complexity of your employed algorithms.\nIt is critical that the implementation adhere to the details provided by the design, as this ensures that a large body of programmers can work independently on the aspects of the system. But despite the best efforts of the designers, it is not uncommon for some critical details to be overlooked. In a properly implemented waterfall process, this kind of “splashback” is anticipated, and a process exists for proposing, approving, and disseminating changes to the design. Because these changes can cause problems for the other programmers working in other areas of the software, it is important for the change to be communicated clearly to all parties (hence the need for a formal process).\nIn addition to following the design, programmers in this phase should be applying best practices in terms of documenting the code they write as well as writing automated tests. This effort ensures that the code not only meets the specification, but that it works as intended, and is straightforward to maintain. Remember, the programmers working with the project during its maintainence phase will likely not be those who created it in the first place.",
-    "description": "The implementation phase of the waterfall should be the most familiar to you, as it is the actual process of creating the proposed software system. This is, after all, the subject of most of your early coursework - the basics of programming, algorithm design, and considering time and memory complexity of your employed algorithms.\nIt is critical that the implementation adhere to the details provided by the design, as this ensures that a large body of programmers can work independently on the aspects of the system.",
-    "tags": [],
-    "title": "Implementation",
-    "uri": "/cis642-643/2-waterfall-model/04-implementation/"
   },
   {
     "breadcrumb": "The Waterfall Model \u003e Requirements Gathering",

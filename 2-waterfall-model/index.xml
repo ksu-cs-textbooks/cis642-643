@@ -238,6 +238,16 @@
 
   
 	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
 		
 		
 	  
@@ -298,7 +308,7 @@
     <description>Go With the Flow</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jun 2024 15:29:22 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 09:27:11 -0500</lastBuildDate>
     <atom:link href="https://textbooks.cs.ksu.edu/cis642-643/2-waterfall-model/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
@@ -331,9 +341,9 @@
     <item>
       <title>Implementation</title>
       <link>https://textbooks.cs.ksu.edu/cis642-643/2-waterfall-model/04-implementation/</link>
-      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <pubDate>Sat, 24 Aug 2024 10:53:05 -0500</pubDate>
       <guid>https://textbooks.cs.ksu.edu/cis642-643/2-waterfall-model/04-implementation/</guid>
-      <description>The implementation phase of the waterfall should be the most familiar to you, as it is the actual process of creating the proposed software system. This is, after all, the subject of most of your early coursework - the basics of programming, algorithm design, and considering time and memory complexity of your employed algorithms.&#xA;It is critical that the implementation adhere to the details provided by the design, as this ensures that a large body of programmers can work independently on the aspects of the system.</description>
+      <description>We can build it!</description>
     </item>
   </channel>
 </rss>
