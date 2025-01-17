@@ -68,6 +68,16 @@
 
   
 	
+	  
+
+  
+	
+	  
+
+  
+	
+		
+		
 		
 	  
 
@@ -248,6 +258,11 @@
   
 	
 		
+	  
+
+  
+	
+		
 		
 		
 	  
@@ -259,6 +274,16 @@
 
   
 	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
 	  
 
   
@@ -303,11 +328,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/07-end-of-semester-report/</link>
-    <description></description>
+    <title>Code Reviews :: K-State CIS 642/643 Textbook</title>
+    <link>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/07-code-reviews/</link>
+    <description>Periodically throughout the semester we will be conducting code reviews. The purpose of a code review is to have a group of developers examine source code to:&#xA;Identify potential bugs Improve code quality Ensure adherence to coding standards Enhance maintainability and readability of the software Code reviews are a standard industry practice, and like most industry practice, will vary in how they are conducted depending on the workplace. For the purposes of this class, the code review assignments will follow the procedures described below.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://textbooks.cs.ksu.edu/cis642-643/a-assignments/07-end-of-semester-report/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://textbooks.cs.ksu.edu/cis642-643/a-assignments/07-code-reviews/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

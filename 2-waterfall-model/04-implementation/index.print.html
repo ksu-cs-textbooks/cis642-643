@@ -68,6 +68,16 @@
 
   
 	
+	  
+
+  
+	
+	  
+
+  
+	
+		
+		
 		
 	  
 
@@ -248,6 +258,11 @@
   
 	
 		
+	  
+
+  
+	
+		
 		
 		
 	  
@@ -259,6 +274,16 @@
 
   
 	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
 	  
 
   
@@ -328,18 +353,18 @@
     <link href="/cis642-643/2-waterfall-model/04-implementation/index.xml" rel="alternate" type="application/rss+xml" title="Implementation :: K-State CIS 642/643 Textbook">
     <link href="/cis642-643/2-waterfall-model/04-implementation/tele.html" rel="alternate" type="text/html" title="Implementation :: K-State CIS 642/643 Textbook">
     <link href="/cis642-643/2-waterfall-model/04-implementation/embed.html" rel="alternate" type="text/html" title="Implementation :: K-State CIS 642/643 Textbook">
-    <link href="/cis642-643/css/fontawesome-all.min.css?1725460735" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/cis642-643/css/fontawesome-all.min.css?1725460735" rel="stylesheet"></noscript>
-    <link href="/cis642-643/css/nucleus.css?1725460735" rel="stylesheet">
-    <link href="/cis642-643/css/auto-complete.css?1725460735" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/cis642-643/css/auto-complete.css?1725460735" rel="stylesheet"></noscript>
-    <link href="/cis642-643/css/perfect-scrollbar.min.css?1725460735" rel="stylesheet">
-    <link href="/cis642-643/css/fonts.css?1725460735" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/cis642-643/css/fonts.css?1725460735" rel="stylesheet"></noscript>
-    <link href="/cis642-643/css/theme.css?1725460735" rel="stylesheet">
-    <link href="/cis642-643/css/theme-auto.css?1725460735" rel="stylesheet" id="R-variant-style">
-    <link href="/cis642-643/css/chroma-auto.css?1725460735" rel="stylesheet" id="R-variant-chroma-style">
-    <link href="/cis642-643/css/variant.css?1725460735" rel="stylesheet">
-    <link href="/cis642-643/css/print.css?1725460735" rel="stylesheet" media="print">
-    <link href="/cis642-643/css/format-print.css?1725460735" rel="stylesheet">
-    <script src="/cis642-643/js/variant.js?1725460735"></script>
+    <link href="/cis642-643/css/fontawesome-all.min.css?1737141883" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/cis642-643/css/fontawesome-all.min.css?1737141883" rel="stylesheet"></noscript>
+    <link href="/cis642-643/css/nucleus.css?1737141883" rel="stylesheet">
+    <link href="/cis642-643/css/auto-complete.css?1737141883" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/cis642-643/css/auto-complete.css?1737141883" rel="stylesheet"></noscript>
+    <link href="/cis642-643/css/perfect-scrollbar.min.css?1737141883" rel="stylesheet">
+    <link href="/cis642-643/css/fonts.css?1737141883" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/cis642-643/css/fonts.css?1737141883" rel="stylesheet"></noscript>
+    <link href="/cis642-643/css/theme.css?1737141883" rel="stylesheet">
+    <link href="/cis642-643/css/theme-auto.css?1737141883" rel="stylesheet" id="R-variant-style">
+    <link href="/cis642-643/css/chroma-auto.css?1737141883" rel="stylesheet" id="R-variant-chroma-style">
+    <link href="/cis642-643/css/variant.css?1737141883" rel="stylesheet">
+    <link href="/cis642-643/css/print.css?1737141883" rel="stylesheet" media="print">
+    <link href="/cis642-643/css/format-print.css?1737141883" rel="stylesheet">
+    <script src="/cis642-643/js/variant.js?1737141883"></script>
     <script>
       window.relearn = window.relearn || {};
       window.relearn.relBasePath='..\/..';
@@ -359,7 +384,7 @@
       window.T_N_results_found = `{1} results found for "{0}"`;
     </script>
     
-    <link href="/cis642-643/css/custom.css?1725460735" rel="stylesheet">
+    <link href="/cis642-643/css/custom.css?1737141883" rel="stylesheet">
   </head>
   <body class="mobile-support print disableInlineCopyToClipboard" data-url="/cis642-643/2-waterfall-model/04-implementation/">
     <div id="R-body" class="default-animation">
@@ -433,10 +458,43 @@
             <header class="headline">
             </header>
 
+<h1 id="dev-environments">Dev Environments</h1>
+
+<p>Implementation work takes place in a <em>development environment</em> - traditionally, a powerful PC with extra tools (compilers, code editors, debuggers, etc) installed. Moreover, the compiler/interpreter is typically run in a debug mode throughout the development process, which injects extra tooling into the compiled/interpreted program to allow for the display of debug information (i.e. giving memory state at breakpoints, etc.). While this makes for a more powerful and speedier development process, there are some implications to keep in mind:</p>
+<ul>
+<li>Debug Mode
+<ul>
+<li>Compilers and interpreters will be run in <em>release</em> mode with the final product, without the extra debugger support.  On occasion, code that works in the debug version may fail in release, so run in release mode occasionally to identify problems.</li>
+<li>Because of the additional debug tooling, executables created in a debug build are typically much larger than release builds. This is one reason you never want to release a debug-built executable</li>
+<li>To better support debugger processes, a debug-mode executable has many hooks for external code to access its internals. THIS IS A SECURITY RISK. Another reason we never release debug builds, only release ones.</li>
+</ul>
+</li>
+<li>Development Machines
+<ul>
+<li>A computer used for development is typically much more powerful that the machines that will be used to run the release code. Thus, algorithms that work perfectly fine on a development machine may be too slow or consume too much memory on an actual target release computer. You should periodically test your program on a target machine thorughout the development to find and address these kinds of problems early.</li>
+<li>Ideally your development machine and your release machines should use the same OS, as differences between operating systems can introduce hard-to-identify bugs.  Moreover, try to use the same OS version, as subtle differences in OS implementations can cause significant headaches in release.</li>
+</ul>
+</li>
+</ul>
+
+            <footer class="footline">
+              
+              
+              
+              
+            </footer>
+          </article>
+
+    
+    
+          <article class="default">
+            <header class="headline">
+            </header>
+
 <h1 id="exercise-docker-vue-dev-container">Exercise: Docker Vue Dev Container</h1>
 
-<p><a href="https://www.youtube.com/watch?v=E_B-dxVSYec" rel="external" target="_blank"><a href="#R-image-0b299555fdb92cb38a9d4288efd079de" class="lightbox-link"><img alt="YouTube Explainer" class="border lazy lightbox noshadow figure-image" loading="lazy" src="https://img.youtube.com/vi/E_B-dxVSYec/0.jpg" style=" height: auto; width: auto;"></a>
-<a href="javascript:history.back();" class="lightbox-back" id="R-image-0b299555fdb92cb38a9d4288efd079de"><img alt="YouTube Explainer" class="border lazy lightbox noshadow lightbox-image" loading="lazy" src="https://img.youtube.com/vi/E_B-dxVSYec/0.jpg"></a></a></p>
+<p><a href="https://www.youtube.com/watch?v=E_B-dxVSYec" rel="external" target="_blank"><a href="#R-image-e4c808348be9ab008017d7f19f374695" class="lightbox-link"><img alt="YouTube Explainer" class="border lazy lightbox noshadow figure-image" loading="lazy" src="https://img.youtube.com/vi/E_B-dxVSYec/0.jpg" style=" height: auto; width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-e4c808348be9ab008017d7f19f374695"><img alt="YouTube Explainer" class="border lazy lightbox noshadow lightbox-image" loading="lazy" src="https://img.youtube.com/vi/E_B-dxVSYec/0.jpg"></a></a></p>
 <p>This project will contain the following features:</p>
 <ul>
 <li><a href="https://containers.dev/" rel="external" target="_blank">Dev Container</a>
@@ -635,8 +693,8 @@
   
     
     </div>
-    <script src="/cis642-643/js/clipboard.min.js?1725460735" defer></script>
-    <script src="/cis642-643/js/perfect-scrollbar.min.js?1725460735" defer></script>
-    <script src="/cis642-643/js/theme.js?1725460735" defer></script>
+    <script src="/cis642-643/js/clipboard.min.js?1737141883" defer></script>
+    <script src="/cis642-643/js/perfect-scrollbar.min.js?1737141883" defer></script>
+    <script src="/cis642-643/js/theme.js?1737141883" defer></script>
   </body>
 </html>

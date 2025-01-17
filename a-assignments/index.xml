@@ -68,6 +68,16 @@
 
   
 	
+	  
+
+  
+	
+	  
+
+  
+	
+		
+		
 		
 	  
 
@@ -248,6 +258,11 @@
   
 	
 		
+	  
+
+  
+	
+		
 		
 		
 	  
@@ -259,6 +274,16 @@
 
   
 	
+	  
+
+  
+	
+		
+	  
+
+  
+	
+		
 	  
 
   
@@ -308,7 +333,7 @@
     <description>What exactly are we doing?</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jan 2023 20:12:30 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 19:23:54 +0000</lastBuildDate>
     <atom:link href="https://textbooks.cs.ksu.edu/cis642-643/a-assignments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
@@ -351,6 +376,13 @@
       <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
       <guid>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/06-specification-document/</guid>
       <description>A specification document is one that lays out the purpose and design of your project. It is a common form of documentation to accompany the development of a piece of software. In a waterfall environment, it may be written early in the process and serve as the basis for the design. In an Agile environment, it will also be written early in the process, but treated more as a living document, i.</description>
+    </item>
+    <item>
+      <title>Code Reviews</title>
+      <link>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/07-code-reviews/</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://textbooks.cs.ksu.edu/cis642-643/a-assignments/07-code-reviews/</guid>
+      <description>Periodically throughout the semester we will be conducting code reviews. The purpose of a code review is to have a group of developers examine source code to:&#xA;Identify potential bugs Improve code quality Ensure adherence to coding standards Enhance maintainability and readability of the software Code reviews are a standard industry practice, and like most industry practice, will vary in how they are conducted depending on the workplace. For the purposes of this class, the code review assignments will follow the procedures described below.</description>
     </item>
   </channel>
 </rss>
