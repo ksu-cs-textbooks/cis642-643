@@ -12,7 +12,7 @@ This textbook was authored for the **CIS 642/643 - Software Engineering Project 
 {{% /notice %}}
 
 
-## CIS 642 - Software Engineering Project I (Fall 2024)
+## CIS 642 - Software Engineering Project I (Fall 2025)
 
 ### Instructor Contact Information
 * **Class Times & Location**: MWF 9:30am-11:20am DUF 1092
@@ -20,11 +20,7 @@ This textbook was authored for the **CIS 642/643 - Software Engineering Project 
 * **Office:** DUE 2216
 * **Phone:** (785)483-9264 (Call/Text)
 * **Website:** [https://nathanhbean.com](https://nathanhbean.com)
-* **Office Hours:** M 2:00-3:30
-* **Virtual Office Hours:** By appointment via [Zoom](https://ksu.zoom.us) or MS Teams.  Schedule a meeting via email or MS Teams Direct Message.
-* **Teaching Assistant**: Pavan Kumar Reddy Lakkireddy (lakkipa1 at ksu.edu)
-* **Office Hours:** 
-TBD
+* **Office Hours:** WU 2:00pm-3:30pm or by appointment
 
 ### Preferred Methods of Communication:
 * **Chat:** Quick questions via MS Teams are the preferred means of communication.   Questions whose answers may benefit the class I would encourage you to post in the course Team, as this keeps a public history your classmates can review. More personal questions should be direct messaged to me.
