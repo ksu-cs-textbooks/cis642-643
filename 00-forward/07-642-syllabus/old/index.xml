@@ -62,6 +62,11 @@
   
 	
 		
+	  
+
+  
+	
+		
 		
 		
 	  
@@ -330,30 +335,37 @@
   <channel>
     <title>Prior CIS 642 Syllabi :: K-State CIS 642/643 Textbook</title>
     <link>https://textbooks.cs.ksu.edu/cis642-643/00-forward/07-642-syllabus/old/</link>
-    <description>Syllabi from previous semesters:&#xA;CIS 642 Syllabus CIS 642 Syllabus Fall 2021 </description>
+    <description>Syllabi from previous semesters:&#xA;Fall 2021 Fall 2022 Fall 2023 Fall 2024 </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://textbooks.cs.ksu.edu/cis642-643/00-forward/07-642-syllabus/old/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CIS 642 Syllabus</title>
-      <link>https://textbooks.cs.ksu.edu/cis642-643/00-forward/07-642-syllabus/old/fall-2022/</link>
-      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
-      <guid>https://textbooks.cs.ksu.edu/cis642-643/00-forward/07-642-syllabus/old/fall-2022/</guid>
-      <description>Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.&#xA;CIS 642 - Software Engineering Project I (Fall 2022) Instructor Contact Information Class Times &amp; Location: MWF 9:30am-11:20am DUF 1092 Instructor: Nathan Bean (nhbean AT ksu DOT edu) Office: DUE 2216 Phone: (785)483-9264 (Call/Text) Website: https://nathanhbean.</description>
-    </item>
-    <item>
-      <title>CIS 642 Syllabus</title>
-      <link>https://textbooks.cs.ksu.edu/cis642-643/00-forward/07-642-syllabus/old/fall-2023/</link>
-      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
-      <guid>https://textbooks.cs.ksu.edu/cis642-643/00-forward/07-642-syllabus/old/fall-2023/</guid>
-      <description>Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.&#xA;CIS 642 - Software Engineering Project I (Fall 2023) Instructor Contact Information Class Times &amp; Location: MWF 9:30am-11:20am DUF 1092 Instructor: Nathan Bean (nhbean AT ksu DOT edu) Office: DUE 2216 Phone: (785)483-9264 (Call/Text) Website: https://nathanhbean.</description>
-    </item>
     <item>
       <title>Fall 2021</title>
       <link>https://textbooks.cs.ksu.edu/cis642-643/00-forward/07-642-syllabus/old/fall-2021/</link>
       <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
       <guid>https://textbooks.cs.ksu.edu/cis642-643/00-forward/07-642-syllabus/old/fall-2021/</guid>
       <description>Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.&#xA;CIS 642 - Software Engineering Project I (Fall 2021) Instructor Contact Information Class Times &amp; Location: MWF 9:30am-11:20am DUF 1092 Instructor: Nathan Bean (nhbean AT ksu DOT edu) Office: DUE 2216 Phone: (785)483-9264 (Call/Text) Website: https://nathanhbean.</description>
+    </item>
+    <item>
+      <title>Fall 2022</title>
+      <link>https://textbooks.cs.ksu.edu/cis642-643/00-forward/07-642-syllabus/old/fall-2022/</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://textbooks.cs.ksu.edu/cis642-643/00-forward/07-642-syllabus/old/fall-2022/</guid>
+      <description>Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.&#xA;CIS 642 - Software Engineering Project I (Fall 2022) Instructor Contact Information Class Times &amp; Location: MWF 9:30am-11:20am DUF 1092 Instructor: Nathan Bean (nhbean AT ksu DOT edu) Office: DUE 2216 Phone: (785)483-9264 (Call/Text) Website: https://nathanhbean.</description>
+    </item>
+    <item>
+      <title>Fall 2023</title>
+      <link>https://textbooks.cs.ksu.edu/cis642-643/00-forward/07-642-syllabus/old/fall-2023/</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://textbooks.cs.ksu.edu/cis642-643/00-forward/07-642-syllabus/old/fall-2023/</guid>
+      <description>Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.&#xA;CIS 642 - Software Engineering Project I (Fall 2023) Instructor Contact Information Class Times &amp; Location: MWF 9:30am-11:20am DUF 1092 Instructor: Nathan Bean (nhbean AT ksu DOT edu) Office: DUE 2216 Phone: (785)483-9264 (Call/Text) Website: https://nathanhbean.</description>
+    </item>
+    <item>
+      <title>Fall 2024</title>
+      <link>https://textbooks.cs.ksu.edu/cis642-643/00-forward/07-642-syllabus/old/fall-2024/</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://textbooks.cs.ksu.edu/cis642-643/00-forward/07-642-syllabus/old/fall-2024/</guid>
+      <description>Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.&#xA;CIS 642 - Software Engineering Project I (Fall 2024) Instructor Contact Information Class Times &amp; Location: MWF 9:30am-11:20am DUF 1092 Instructor: Nathan Bean (nhbean AT ksu DOT edu) Office: DUE 2216 Phone: (785)483-9264 (Call/Text) Website: https://nathanhbean.</description>
     </item>
   </channel>
 </rss>
