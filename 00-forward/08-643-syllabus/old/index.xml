@@ -87,6 +87,11 @@
   
 	
 		
+	  
+
+  
+	
+		
 		
 		
 	  
@@ -340,7 +345,7 @@
   <channel>
     <title>Prior CIS 643 Syllabi :: K-State CIS 642/643 Textbook</title>
     <link>https://textbooks.cs.ksu.edu/cis642-643/00-forward/08-643-syllabus/old/</link>
-    <description>Syllabi from previous semesters:&#xA;CIS 643 Syllabus </description>
+    <description>Syllabi from previous semesters:&#xA;CIS 643 Syllabus CIS 643 Syllabus </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://textbooks.cs.ksu.edu/cis642-643/00-forward/08-643-syllabus/old/index.xml" rel="self" type="application/rss+xml" />
@@ -350,6 +355,13 @@
       <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
       <guid>https://textbooks.cs.ksu.edu/cis642-643/00-forward/08-643-syllabus/old/spring-2024/</guid>
       <description>Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.&#xA;CIS 643 - Software Engineering Project II Instructor Contact Information Instructor: Nathan Bean (nhbean AT ksu DOT edu) Office: DUE 2216 Phone: (785)483-9264 (Call/Text) Website: https://nathanhbean.com Office Hours: Wednesday 1:30pm-3:30pm Virtual Office Hours: By appointment via Zoom or MS Teams.</description>
+    </item>
+    <item>
+      <title>CIS 643 Syllabus</title>
+      <link>https://textbooks.cs.ksu.edu/cis642-643/00-forward/08-643-syllabus/old/spring-2025/</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://textbooks.cs.ksu.edu/cis642-643/00-forward/08-643-syllabus/old/spring-2025/</guid>
+      <description>Web Only This textbook was authored for the CIS 642/643 - Software Engineering Project I&amp;II course at Kansas State University. This front matter is specific to that course. If you are not enrolled in the course, please disregard this section.&#xA;CIS 643 - Software Engineering Project II Class Time: MWF 12:30pm-1:20pm Class Location: DUE 1116 Open House: Saturday, April 12, 9:00am-3:00pm Engineering Showcase: Friday, May 9, 1:00pm-4:00pm Final Presentations: Wednesday, May 14, 4:10pm-6:00pm Instructor Contact Information Instructor: Nathan Bean (nhbean AT ksu DOT edu) Office: DUE 2216 Phone: (785)483-9264 (Call/Text) Website: https://nathanhbean.</description>
     </item>
   </channel>
 </rss>
