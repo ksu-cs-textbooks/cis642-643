@@ -16,7 +16,9 @@ In SCRUM, a sprint either succeeds or fails. A sprint fails when not all the ite
 
 To reflect this, we are adapting _criterion grading_ in evaluating sprint releases.  A successful sprint earns full points.  A failed sprint earns 0 points.  
 
-The criteria your sprint release will be evaluated against are the goals you set in your sprint backlog.  Each item in the backlog should be complete in the release. Completion means it meets the following standards:
+The criteria your sprint release will be evaluated against are the goals you set in your sprint backlog.  Each item in the backlog should be complete in the release. 
+
+All releases should meet the following standards:
 
 ##### Development Environment
 
