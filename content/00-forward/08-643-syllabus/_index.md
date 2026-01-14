@@ -12,18 +12,18 @@ This textbook was authored for the **CIS 642/643 - Software Engineering Project 
 {{% /notice %}}
 
 ## CIS 643 - Software Engineering Project II
-* **Class Time:** MWF 12:30pm-1:20pm
+* **Class Time:** MWF 12:30pm-2:20pm
 * **Class Location:** DUE 1116
-* **Open House:** Saturday, April 12, 9:00am-3:00pm
+* **Open House:** Saturday, April 18, 9:00am-3:00pm
 * **Engineering Showcase:** Friday, May 9, 1:00pm-4:00pm
-* **Final Presentations:** Wednesday, May 14, 4:10pm-6:00pm
+* **Final Presentations:** TBD
 
 ### Instructor Contact Information
 * **Instructor:** Nathan Bean (nhbean AT ksu DOT edu)
 * **Office:** DUE 2216
 * **Phone:** (785)483-9264 (Call/Text)
 * **Website:** [https://nathanhbean.com](https://nathanhbean.com)
-* **Office Hours:** Wednesday 1:30pm-3:30pm
+* **Office Hours:** Wednesday 2:30pm-4:30pm
 * **Virtual Office Hours:** By appointment via [Zoom](https://ksu.zoom.us) or MS Teams.  Schedule a meeting via email or MS Teams Direct Message.
 
 ### Preferred Methods of Communication:
@@ -102,8 +102,13 @@ Grades will be issued on a 4-point scale, with 4=A and 0=F. Grades will be issue
     <td>20%</td>
   </tr>
   <tr>
-    <td>Software Projects</td>
-    <td>Code Reviews, Documentation, Testing, Functionality</td>
+    <td>Sprint Reviews</td>
+    <td>Implementation of sprint goals</td>
+    <td>20%</td>
+  </tr>  
+  <tr>
+    <td>Code Reviews</td>
+    <td>Code Quality, Documentation, Testing, Functionality</td>
     <td>20%</td>
   </tr>
   <tr>
@@ -116,11 +121,11 @@ Grades will be issued on a 4-point scale, with 4=A and 0=F. Grades will be issue
     <td>Usability of Application, Quality of Interactions, Professionalism</td>
     <td>20%</td>
   </td>
-  <tr>
+  <!--tr>
     <td>Process Fidelity</td>
     <td>Regularity of tools, creation and usage, of appropriate charts and metrics</td>
     <td>20%</td>
-  </tr>
+</tr-->
 </table>
 
 Each category is equally important for your preparation for becoming a software engineer - remember, it isn’t only about writing good code, it’s about making that code useful to society!
